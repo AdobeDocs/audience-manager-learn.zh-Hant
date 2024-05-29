@@ -9,9 +9,9 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-source-git-commit: 2f902a00139942e14b0a108c7515745cfe6d52ec
+source-git-commit: d16c7e1164ee1e63e44d239f8bb3356ce0402246
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -20,12 +20,9 @@ ht-degree: 0%
 
 歡迎使用Audience Manager教學課程網站。 使用這些教學課程以及 [檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) 可讓您更進一步瞭解如何使用Adobe Audience Manager，透過Adobe同級最佳功能，於任何頻道或裝置上建立及啟用對象 [!DNL data management platform].
 
-* 請參閱 **「新增功能」** 區段以瞭解最新更新和功能
 * **員工精選** 特別顯示我們最愛的一些內容
 * 在中依主題和副主題探索內容 **左側導覽**
 * 使用 **搜尋** 欄位（若您知道要尋找的內容）
-
-
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
