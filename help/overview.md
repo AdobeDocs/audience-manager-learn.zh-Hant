@@ -18,11 +18,11 @@ ht-degree: 0%
 
 # Audience Manager教學課程
 
-歡迎使用Audience Manager教學課程網站。 使用這些教學課程以及 [檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) 可讓您更進一步瞭解如何使用Adobe Audience Manager，透過Adobe同級最佳功能，於任何頻道或裝置上建立及啟用對象 [!DNL data management platform].
+歡迎使用Audience Manager教學課程網站。 使用這些教學課程以及[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html)，可讓您更妥善地瞭解如何使用Adobe Audience Manager，透過Adobe同級最佳的[!DNL data management platform]在任何管道或裝置上建立及啟用對象。
 
-* **員工精選** 特別顯示我們最愛的一些內容
-* 在中依主題和副主題探索內容 **左側導覽**
-* 使用 **搜尋** 欄位（若您知道要尋找的內容）
+* **員工精選**&#x200B;特別顯示我們最喜歡的一些內容
+* 在&#x200B;**左側導覽**&#x200B;中依主題和副主題探索內容
+* 如果您知道要尋找的內容，請使用頁面頂端的&#x200B;**搜尋**&#x200B;欄位
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -60,7 +60,7 @@ ht-degree: 0%
     </a>
     </div>
     <p>
-    <em>本影片說明Audience Manager與Real-time CDP之間有關區段和區段建立的差異。</em>
+    <em>此影片檢視Audience Manager與Real-time CDP之間有關區段和區段建立的差異。</em>
     <p>
   </td>
   <td>
@@ -69,7 +69,7 @@ ht-degree: 0%
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
-    <strong>在Audience Manager中設定預測對象及製作報表</strong>
+    <strong>在Audience Manager中設定預測對象並製作報表</strong>
     </a>
     </div>
     <p>

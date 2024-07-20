@@ -1,6 +1,6 @@
 ---
-title: 對象身分報告
-description: 瞭解對象身分報告。 此型別的Audience Manager報表可讓您依人員或家庭身分定義，報告某個特徵或區段的總母體。
+title: 對象身分報表
+description: 瞭解對象身分報表。 在Audience Manager中，此型別的報表可讓您依人員或家庭身分定義，報告某個特徵或區段的總母體。
 feature: profile merge
 topics: null
 audience: marketer
@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# 對象身分報告
+# 對象身分報表
 
-受眾身分報表可讓客戶依身分的人員/家庭定義，報告某個特徵或區段的總母體。 觀看此影片以檢視Audience Manager報表中的呈現方式。
+受眾身分報表可讓客戶依身分的個人/家庭定義，報告某個特徵或區段的總母體。 觀看此影片以檢視Audience Manager報表中的呈現方式。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27977/?quality=12)

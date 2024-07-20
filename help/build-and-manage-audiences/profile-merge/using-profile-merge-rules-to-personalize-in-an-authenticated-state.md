@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 使用 [!UICONTROL Profile Merge Rules] 在驗證狀態下個人化
+# 使用[!UICONTROL Profile Merge Rules]在驗證狀態下進行個人化
 
-使用以下專案為登入的客戶提供個人化體驗 [!UICONTROL Profile Merge Rule] 設定。
+使用這些[!UICONTROL Profile Merge Rule]設定為您的登入客戶提供個人化體驗。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35938/?quality=12&learn=on)

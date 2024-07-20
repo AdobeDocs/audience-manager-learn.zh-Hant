@@ -1,6 +1,6 @@
 ---
 title: 如何從Adobe Analytics將區段匯入Audience Manager
-description: 除了將即時資料從Adobe Analytics轉送到Audience Manager中，您還可以透過Experience Cloud將包含處理後資料的區段從Analytics匯入到Audience Manager。 這是其他DMP無法誇耀的強大功能。
+description: 除了從Adobe Analytics將即時資料轉送到Audience Manager中，您還可以從Analytics將包含處理後資料的區段匯入到Audience Manager中(透過Experience Cloud)。 這是其他DMP無法誇耀的強大功能。
 feature: Segments
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 從Adobe Analytics將區段匯入Audience Manager
 
-除了將即時資料從Adobe Analytics轉送到Audience Manager中，您還可以透過Experience Cloud將包含處理後資料的區段從Analytics匯入到Audience Manager。 這是其他DMP無法誇耀的強大功能。
+除了從Adobe Analytics將即時資料轉送到Audience Manager中，您還可以從Analytics將包含處理後資料的區段匯入到Audience Manager中(透過Experience Cloud)。 這是其他DMP無法誇耀的強大功能。
 
 >[!VIDEO](https://video.tv.adobe.com/v/330804/?quality=12&learn=on)

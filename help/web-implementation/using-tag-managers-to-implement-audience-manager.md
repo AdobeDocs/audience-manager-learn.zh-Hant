@@ -1,6 +1,6 @@
 ---
-title: 使用標籤管理程式來實作Audience Manager
-description: 瞭解在使用標籤管理解決方案時實施Adobe Audience Manager的基本知識。
+title: 使用標籤管理員來實作Audience Manager
+description: 瞭解使用標籤管理解決方案時實作Adobe Audience Manager的基本知識。
 feature: Implementation Basics
 topics: null
 activity: implement
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# 使用標籤管理程式來實作Audience Manager
+# 使用標籤管理員來實作Audience Manager
 
-在本影片中，瞭解使用標籤管理解決方案時實施Adobe Audience Manager的基本知識。
+在本影片中，您將會瞭解使用標籤管理解決方案時實作Adobe Audience Manager的基本知識。
 
 下列使用案例強調顯示：
 

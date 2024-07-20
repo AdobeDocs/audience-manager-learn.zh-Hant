@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 設定 [!UICONTROL Profile Merge Rules] 適用於以人物為基礎的目的地
+# 為以人物為基礎的目的地設定[!UICONTROL Profile Merge Rules]
 
-在本影片中，瞭解如何設定 [!UICONTROL Profile Merge Rule] 以人物為基礎的目的地，包括何時使用全新的跨裝置選項。
+在本影片中，瞭解如何設定[!UICONTROL Profile Merge Rule]以用於以人物為基礎的目的地，包括何時使用全新的跨裝置選項。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29076/?quality=12)

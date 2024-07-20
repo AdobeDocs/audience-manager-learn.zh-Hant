@@ -1,6 +1,6 @@
 ---
 title: 選擇正確的設定檔合併規則
-description: 此影片會介紹設定檔合併規則最常見的三種使用案例，並說明各種案例對行銷的效益。
+description: 此影片將會介紹「設定檔合併規則」最常見的三種使用案例，並說明各種案例對行銷的效益。
 feature: Profile Merge
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 選擇正確的 [!UICONTROL Profile Merge Rule]
+# 選擇正確的[!UICONTROL Profile Merge Rule]
 
-在此影片中，探索以下三個最常見的使用案例： [!UICONTROL Profile Merge Rules]，以及它們如何協助您的行銷工作。
+在此影片中，探索[!UICONTROL Profile Merge Rules]最常見的三種使用案例，以及這些案例如何協助您的行銷工作。
 
 >[!VIDEO](https://video.tv.adobe.com/v/37908/?quality=12&learn=on)

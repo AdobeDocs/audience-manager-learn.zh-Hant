@@ -11,7 +11,7 @@ kt: 7205
 exl-id: a3255af9-372e-4c2e-b3e6-3b71b3616bfa
 source-git-commit: 5c76721780ab46faec503db774928649e8274327
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '148'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 1%
 
 以下是可協助您瞭解Real-time Customer Data Platform的一些現有影片和教學課程。 歡迎探索其他影片和教學課程，深入瞭解Platform。
 
-* [使用結構編輯器建立架構](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
+* [使用結構描述編輯器建立結構描述](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
 * [建立資料集](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/create-datasets.html?lang=en#permissions-required)
 * [建立區段](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=en#segments)
 * [建立動態區段](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-dynamic-segments.html?lang=en#segments)

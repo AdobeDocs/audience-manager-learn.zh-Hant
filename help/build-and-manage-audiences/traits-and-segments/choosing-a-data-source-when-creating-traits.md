@@ -1,6 +1,6 @@
 ---
 title: 建立特徵時選擇資料來源
-description: 建立特徵時需要填寫的重要欄位之一是「資料來源」欄位。 取得秘訣，為規則型和已上線特徵選擇正確的資料來源。
+description: 建立特徵時，「資料Source」欄位是必填的重要欄位之一。 取得秘訣，為規則型特徵和已登入特徵選擇正確的資料來源。
 feature: Traits
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 建立特徵時選擇資料來源
 
-建立特徵時需要填寫的重要欄位之一是 [!UICONTROL Data Source] 欄位。 取得秘訣，為規則型和已上線特徵選擇正確的資料來源。
+建立特徵時，[!UICONTROL Data Source]欄位是必填的重要欄位之一。 取得秘訣，為規則型特徵和已登入特徵選擇正確的資料來源。
 
 >[!VIDEO](https://video.tv.adobe.com/v/326660/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: 建立已上線的特徵
-description: 瞭解在Audience Manager中建立已上線特徵的秘訣。
+title: 建立已登入的特徵
+description: 瞭解在Audience Manager中建立已登入特性的秘訣。
 feature: Traits
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 建立已上線的特徵
+# 建立已登入的特徵
 
-瞭解在Audience Manager中建立已上線特徵的秘訣。
+瞭解在Audience Manager中建立已登入特性的秘訣。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40267/?quality=12&learn=on)

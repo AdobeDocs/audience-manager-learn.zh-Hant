@@ -1,6 +1,6 @@
 ---
 title: 在區段中使用造訪間隔和頻率
-description: 使用「造訪間隔」和「頻率」為您的區段提供引數，說明訪客在特定時段內必須符合某特徵的次數。 適合內容相似性和頻率限定使用案例，也適用於其他使用案例。
+description: 使用「造訪間隔」和「頻率」為您的區段提供引數，說明訪客在特定時段內必須符合某特徵的次數。 適合內容相似性和頻率限定使用案例，也適用於其他用途。
 feature: Segments
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 使用 [!UICONTROL Recency] 和 [!UICONTROL Frequency] 在區段中
+# 在區段中使用[!UICONTROL Recency]和[!UICONTROL Frequency]
 
-使用 [!UICONTROL Recency] 和 [!UICONTROL Frequency] 提供區段引數，說明訪客在特定時段內必須符合某特徵的次數。 適合內容相似性和頻率限定使用案例，也適用於其他使用案例。
+使用[!UICONTROL Recency]和[!UICONTROL Frequency]提供您的區段引數，說明訪客在特定時段內必須符合某特徵的次數。 適合內容相似性和頻率限定使用案例，也適用於其他用途。
 
 >[!VIDEO](https://video.tv.adobe.com/v/37698/?quality=12&learn=on)

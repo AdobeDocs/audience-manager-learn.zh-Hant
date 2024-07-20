@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Profile Merge Rule] 增強功能 — 必要條件
+# [!UICONTROL Profile Merge Rule]增強功能 — 必要條件
 
-如何為發行做好最佳準備的概述 [!UICONTROL Profile Merge Rule] 增強功能。
+如何最佳準備發行[!UICONTROL Profile Merge Rule]增強功能的概述。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28971/?quality=12)

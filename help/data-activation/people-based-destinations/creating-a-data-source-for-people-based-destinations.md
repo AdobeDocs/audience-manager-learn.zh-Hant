@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 建立 [!UICONTROL Data Source] 適用於以人物為基礎的目的地
+# 為以人物為基礎的目的地建立[!UICONTROL Data Source]
 
-本影片將逐步說明如何建立 [!UICONTROL Data Source] 以人物為基礎的目的地所使用的Audience Manager中。
+此影片將逐步說明如何在Audience Manager中建立[!UICONTROL Data Source]，以用於以人物為基礎的目的地。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29006/?quality=12)

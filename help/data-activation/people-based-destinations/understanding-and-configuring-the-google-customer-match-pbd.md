@@ -1,6 +1,6 @@
 ---
-title: 瞭解並設定Google Customer Match以人物為基礎的目的地
-description: 此影片會逐步帶您瞭解Google客戶比對以人物為基礎的目的地的詳細資訊和使用案例，包括建立區段及對應至目的地的逐步解說。 此外，影片也會展示對象在Google廣告主控台中的登陸作業。
+title: 瞭解及設定Google Customer Match以人物為基礎的目的地
+description: 此影片會逐步帶您瞭解Google客戶比對以人物為基礎的目的地的詳細資訊和使用案例，包括建立區段及對應至目的地的逐步解說。 它也會顯示Google Ad Console中的受眾登陸作業。
 feature: People-based Destinations
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 瞭解並設定Google Customer Match以人物為基礎的目的地
+# 瞭解及設定Google Customer Match以人物為基礎的目的地
 
-此影片將逐步帶您瞭解Google客戶比對以人物為基礎的目的地的詳細資訊和使用案例，包括逐步說明如何建立區段及對應至目的地。 此外，影片也會展示對象在Google廣告主控台中的登陸作業。
+此影片會逐步帶您瞭解Google Customer Match以人物為基礎的目的地的詳細資訊和使用案例，包括逐步說明如何建立區段及對應至目的地。 它也會顯示Google Ad Console中的受眾登陸作業。
 
 >[!VIDEO](https://video.tv.adobe.com/v/38552/?quality=12&learn=on)

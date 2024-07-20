@@ -1,6 +1,6 @@
 ---
 title: 將Audience Manager區段對應至目的地
-description: 瞭解Audience Manager中不同型別的目的地，以及將區段對應至每個目的地型別的詳細資訊。
+description: 瞭解Audience Manager中的各種目的地型別，以及將區段對應至每種目的地型別的詳細資訊。
 feature: Segments
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 將Audience Manager區段對應至目的地
 
-瞭解Audience Manager中不同型別的目的地，以及將區段對應至每個目的地型別的詳細資訊。
+瞭解Audience Manager中的各種目的地型別，以及將區段對應至每種目的地型別的詳細資訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/39158/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: 從多個資料來源建立區段
-description: 在Audience Manager中建立區段時，您可以從各種資料來源新增特徵。 本影片說明該怎麼做，並討論需要考慮的其他設定。
+description: 在Audience Manager中建立區段時，您可以從各種資料來源新增特徵。 本影片將說明該怎麼做，並討論需要考慮的其他設定。
 feature: Segments
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 從多個資料來源建立區段
 
-在Audience Manager中建立區段時，您可以從各種資料來源新增特徵。 本影片說明該怎麼做，並討論需要考慮的其他設定。
+在Audience Manager中建立區段時，您可以從各種資料來源新增特徵。 本影片將說明該怎麼做，並討論需要考慮的其他設定。
 
 >[!VIDEO](https://video.tv.adobe.com/v/37713/?quality=12&learn=on)

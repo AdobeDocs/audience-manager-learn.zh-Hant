@@ -1,6 +1,6 @@
 ---
-title: 為以人物為基礎的目的地建立區段
-description: 此影片會逐步帶您建立Audience Manager區段，以用於以人物為基礎的目的地。
+title: 建立以人物為基礎的目的地區段
+description: 此影片會逐步引導您建立Audience Manager中以人物為基礎的目的地適用的區段。
 feature: People-based Destinations
 activity: setup
 doc-type: feature video
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# 為以人物為基礎的目的地建立區段
+# 建立以人物為基礎的目的地區段
 
-此影片會逐步帶您建立Audience Manager區段，以用於以人物為基礎的目的地。
+此影片會逐步引導您建立Audience Manager中以人物為基礎的目的地適用的區段。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29236/?quality=12)

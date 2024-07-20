@@ -1,5 +1,5 @@
 ---
-title: 瞭解Audience Manager的基本術語和概念
+title: 瞭解Audience Manager中的基本術語和概念
 description: 透過此支援影片了解基本術語和概念以開始使用 Adobe Audience Manager，包括訊號、特徵、客戶細分等。
 landing-page-description: 透過此支援影片了解基本術語和概念以開始使用 Adobe Audience Manager，包括訊號、特徵、客戶細分等。
 short-description: 透過此支援影片了解基本術語和概念以開始使用 Adobe Audience Manager，包括訊號、特徵、客戶細分等。
@@ -20,7 +20,7 @@ ht-degree: 85%
 
 ---
 
-# 瞭解Audience Manager的基本術語和概念
+# 瞭解Audience Manager中的基本術語和概念
 
 這部影片會介紹一些基本術語和概念 (包括訊號、特徵、區段等等)，協助您開始使用 Audience Manager。
 

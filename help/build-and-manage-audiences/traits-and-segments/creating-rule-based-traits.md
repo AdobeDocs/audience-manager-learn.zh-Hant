@@ -1,6 +1,6 @@
 ---
 title: 建立規則型特徵
-description: 瞭解如何在Audience ManagerUI中使用特徵產生器建立規則型特徵，讓您將即時活動擷取到Audience Manager設定檔中。
+description: 瞭解如何使用Audience ManagerUI中的特徵產生器建立規則型特徵，讓您將即時活動擷取到Audience Manager設定檔中。
 feature: Traits
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 建立規則型特徵
 
-瞭解如何使用 [!UICONTROL Trait Builder] 在Audience ManagerUI中建立規則型特徵，好讓您將即時活動擷取到Audience Manager設定檔中。
+瞭解如何在Audience ManagerUI中使用[!UICONTROL Trait Builder]來建立規則型特徵，好讓您將即時活動擷取到Audience Manager設定檔中。
 
 >[!VIDEO](https://video.tv.adobe.com/v/34749/?quality=12&learn=on)

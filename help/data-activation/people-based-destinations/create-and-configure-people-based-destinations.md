@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 建立和設定 [!UICONTROL People-based Destinations]
+# 建立和設定[!UICONTROL People-based Destinations]
 
-此影片首先會提供建立以人物為基礎的目的地的必要條件相關資訊，然後也會示範如何設定整合帳戶(連結至合作夥伴，例如 [!DNL Facebook])。 然後它會逐步引導您瞭解目的地本身的產品內設定。
+此影片會先提供建立以人物為基礎的目的地的必要條件相關資訊，然後示範如何設定整合帳戶（連結至合作夥伴，例如[!DNL Facebook]）。 然後會逐步引導您瞭解目的地本身的產品內設定。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28955/?quality=12)

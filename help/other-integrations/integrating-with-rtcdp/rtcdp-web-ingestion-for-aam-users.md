@@ -11,8 +11,8 @@ kt: 7153
 exl-id: e0ea393d-b332-4754-b855-25c838a463b4
 source-git-commit: 5c76721780ab46faec503db774928649e8274327
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 3%
+source-wordcount: '187'
+ht-degree: 1%
 
 ---
 
@@ -27,5 +27,5 @@ ht-degree: 3%
 以下是可協助您瞭解Real-time Customer Data Platform的一些現有影片和教學課程。 歡迎探索其他影片和教學課程，深入瞭解Platform。
 
 * [使用Adobe Audience Manager資料聯結器擷取資料](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
-* [Adobe Experience 平台 Web SDK 教學課程](https://experienceleague.adobe.com/docs/web-sdk-learn/tutorials/overview.html?lang=en)
-* [使用結構編輯器建立架構](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
+* [Adobe Experience Platform Web SDKTutorials](https://experienceleague.adobe.com/docs/web-sdk-learn/tutorials/overview.html?lang=en)
+* [使用結構描述編輯器建立結構描述](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
