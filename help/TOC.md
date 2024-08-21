@@ -4,7 +4,7 @@ user-guide-description: Adobe Analytics 的影片和教學課程系列。
 breadcrumb-title: Audience Manager 教學課程
 solution: Audience Manager
 type: Tutorial
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: f9708e705d95b43084ff11e342dc54ff11d6326c
 workflow-type: tm+mt
 source-wordcount: '895'
 ht-degree: 2%
@@ -16,7 +16,7 @@ ht-degree: 2%
 
 + [Audience Manager教學課程](overview.md)
 + Audience Manager{#intro-to-audience-manager}簡介
-   + [DMP如何改變您的企業](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
+   + [DMP如何改變您的業務](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
    + [Audience Manager- DMP概觀](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
    + [Audience Manager使用案例](intro-to-audience-manager/audience-manager-use-cases.md)
    + [瞭解基本術語和概念](intro-to-audience-manager/understanding-basic-terms-and-concepts-in-audience-manager.md)
@@ -38,7 +38,7 @@ ht-degree: 2%
       + [使用角色型存取控制設定許可權](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
    + 資料控管和隱私權{#data-governance-and-privacy}
       + [全域裝置識別碼驗證](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
-      + [IAB TCF 2.0支援](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
+      + [IAB TCF 2.2支援](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
       + [依國家/地區的IP模糊化](setup-and-admin/data-governance-and-privacy/ip-obfuscation-by-country.md)
    + 使用量和帳單{#usage-and-billing}
       + [監視和報告活動使用情況](setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.md)
