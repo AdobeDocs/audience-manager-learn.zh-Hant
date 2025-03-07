@@ -1,8 +1,8 @@
 ---
 title: Audience Manager中的身分識別簡介
-description: 了解 Audience Manager 如何管理身分識別資訊，包括內部輪廓和輪廓合併作業，以及與合作夥伴的 ID 同步處理工作。
-landing-page-description: 了解 Audience Manager 如何管理身分識別資訊，包括內部輪廓和輪廓合併作業，以及與合作夥伴的 ID 同步處理工作。
-short-description: 了解 Audience Manager 如何管理身分識別資訊，包括內部輪廓和輪廓合併作業，以及與合作夥伴的 ID 同步處理工作。
+description: 了解 Audience Manager 如何管理身分識別資訊，包括內部設定檔和設定檔合併作業，以及與合作夥伴的 ID 同步處理工作。
+landing-page-description: 了解 Audience Manager 如何管理身分識別資訊，包括內部設定檔和設定檔合併作業，以及與合作夥伴的 ID 同步處理工作。
+short-description: 了解 Audience Manager 如何管理身分識別資訊，包括內部設定檔和設定檔合併作業，以及與合作夥伴的 ID 同步處理工作。
 feature: ID Syncs
 topics: null
 activity: understand
