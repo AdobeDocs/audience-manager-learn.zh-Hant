@@ -84,7 +84,7 @@ Audience Manager的[!DNL Data Integration Library] (DIL)程式碼可讓您在您
 非Adobe標籤管理員的情況也一樣。 只要您有該標籤管理解決方案中的舊版本，請依照以下步驟所述以新程式碼取代。
 
 1. 將您的DIL程式庫更新至最新版本（8.0或更新版本） — 您需要從Adobe Consulting或Adobe客戶服務取得最新的DIL程式碼，因為目前無法在公共位置使用。 然後只需用新的DIL程式庫程式碼取代舊的DIL程式庫程式碼，並繼續進行下一個步驟（不要現在停止，否則您會遇到問題，ha）。
-1. 安裝[!DNL ECID Service]或將現有版本更新至3.3.0或更新版本。 您可以從我們的GitHub頁面](https://github.com/Adobe-Marketing-Cloud/id-service/releases)下載最新的Experience CloudID服務版本[。 若您需要相關協助，請參閱[檔案](https://experienceleague.adobe.com/docs/id-service/using/home.html)或諮詢Adobe顧問。
+1. 安裝[!DNL ECID Service]或將現有版本更新至3.3.0或更新版本。 您可以從我們的GitHub頁面[&#128279;](https://github.com/Adobe-Marketing-Cloud/id-service/releases)下載最新的Experience CloudID服務版本。 若您需要相關協助，請參閱[檔案](https://experienceleague.adobe.com/docs/id-service/using/home.html)或諮詢Adobe顧問。
 
 1. 確認自訂程式碼中用於DIL的任何已棄用方法或元素已移至ECID方法：
 

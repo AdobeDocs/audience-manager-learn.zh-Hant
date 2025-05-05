@@ -15,7 +15,7 @@ ht-degree: 2%
 # Audience Manager 教學課程 {#tutorials}
 
 + [Audience Manager教學課程](overview.md)
-+ Audience Manager{#intro-to-audience-manager}簡介
++ Audience Manager簡介{#intro-to-audience-manager}
    + [DMP如何改變您的業務](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
    + [Audience Manager- DMP概觀](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
    + [Audience Manager使用案例](intro-to-audience-manager/audience-manager-use-cases.md)
@@ -149,7 +149,7 @@ ht-degree: 2%
    + [透過重疊報表瞭解相關對象](reports/understand-related-audiences-with-overlap-reports.md)
    + [使用Audience Optimization報表來瞭解媒體效能](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + 其他整合{#other-integrations}
-   + 與Real-time Customer Data Platform {#integrating-with-rtcdp}整合
+   + 與Real-time Customer Data Platform整合 {#integrating-with-rtcdp}
       + [使用Adobe Audience Manager資料聯結器擷取資料](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
       + [瞭解Real-time CDP中的第一方資料擷取](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
       + [瞭解Real-time CDP中的網頁資料擷取](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
@@ -160,7 +160,7 @@ ht-degree: 2%
       + [瞭解Real-time CDP中的目的地](other-integrations/integrating-with-rtcdp/rtcdp-destinations-for-aam-users.md)
       + [瞭解Real-time CDP中的存取控制](other-integrations/integrating-with-rtcdp/rtcdp-access-control-for-aam-users.md)
       + [瞭解Real-time CDP中的資料控管](other-integrations/integrating-with-rtcdp/rtcdp-data-gov-for-aam-users.md)
-   + 與Ad Cloud {#integrating-with-ad-cloud}整合
+   + 與Ad Cloud整合 {#integrating-with-ad-cloud}
       + [Adobe Advertising Cloud與Adobe Audience Manager整合](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + API {#api}
    + [在Adobe Developer中擷取API認證](api/retrieve-api-credentials-in-adobe-io.md)
