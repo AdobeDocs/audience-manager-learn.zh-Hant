@@ -25,4 +25,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/33894/?quality=12)
 
-如需詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html)。
+如需詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=zh-Hant)。

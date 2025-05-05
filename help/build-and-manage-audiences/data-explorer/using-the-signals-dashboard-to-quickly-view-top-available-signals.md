@@ -26,4 +26,4 @@ ht-degree: 0%
 
 當您點進至[!UICONTROL Data Explorer] （亦即[!UICONTROL Signals]應用程式）時，系統會顯示常用訊號的預設控制面板以及新訊號。 除了這兩個預設值之外，您還可以儲存搜尋並將它們新增到儀表板，這樣您就可以在功能的首頁快速檢視您最重要的資料。
 
-如需[!UICONTROL Data Explorer]的詳細資訊，請造訪[Data Explorer — 概述、優點和使用案例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en))。
+如需[!UICONTROL Data Explorer]的詳細資訊，請造訪[Data Explorer — 概述、優點和使用案例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=zh-Hant))。

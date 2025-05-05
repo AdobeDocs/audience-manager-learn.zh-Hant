@@ -26,4 +26,4 @@ ht-degree: 0%
 
 如需傳入檔案資料格式化的相關影片，請按一下[這裡](formatting-and-ingesting-file-based-data.md)。
 
-如需其他資訊，請參閱[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html)。
+如需其他資訊，請參閱[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html?lang=zh-Hant)。

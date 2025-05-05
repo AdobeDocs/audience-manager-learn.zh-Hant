@@ -26,4 +26,4 @@ ht-degree: 0%
 
 如需有關檔案命名和匯入的影片，請按一下[這裡](steps-for-ingesting-file-based-data.md)。
 
-如需其他資訊，請參閱[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?)。
+如需其他資訊，請參閱[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?lang=zh-Hant&)。

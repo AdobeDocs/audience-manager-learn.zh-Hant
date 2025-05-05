@@ -26,6 +26,6 @@ ht-degree: 1%
 
 以下是可協助您瞭解Real-time Customer Data Platform的一些現有影片和教學課程。 歡迎探索其他影片和教學課程，深入瞭解Platform。
 
-* [使用Adobe Audience Manager資料聯結器擷取資料](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
-* [Adobe Experience Platform Web SDKTutorials](https://experienceleague.adobe.com/docs/web-sdk-learn/tutorials/overview.html?lang=en)
-* [使用結構描述編輯器建立結構描述](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
+* [使用Adobe Audience Manager資料聯結器擷取資料](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=zh-Hant#sources)
+* [Adobe Experience Platform Web SDKTutorials](https://experienceleague.adobe.com/docs/web-sdk-learn/tutorials/overview.html?lang=zh-Hant)
+* [使用結構描述編輯器建立結構描述](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=zh-Hant#getting-started)

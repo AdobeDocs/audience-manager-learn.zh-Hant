@@ -26,5 +26,5 @@ ht-degree: 1%
 
 以下現有影片和資源可協助您瞭解Real-time Customer Data Platform。 歡迎探索其他影片和教學課程，深入瞭解Platform。
 
-* [瞭解適用於Audience Manager使用者的Real-time CDP中的特徵](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.html?lang=en#other-integrations)
-* [瞭解適用於Audience Manager使用者的Real-time CDP中的區段](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=en#other-integrations)
+* [瞭解適用於Audience Manager使用者的Real-time CDP中的特徵](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.html?lang=zh-Hant#other-integrations)
+* [瞭解適用於Audience Manager使用者的Real-time CDP中的區段](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=zh-Hant#other-integrations)

@@ -26,4 +26,4 @@ ht-degree: 0%
 
 [!UICONTROL Trait Recommendations]同時處理第一方和第三方資料，因此您可以包含其他建議的[!UICONTROL Traits]，並增加您的目標對象。
 
-如需有關此功能的詳細資訊，請瀏覽[檔案](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html)。
+如需有關此功能的詳細資訊，請瀏覽[檔案](https://experiencecloud.adobe.com/resources/help/zh_TW/aam/trait-recommendations.html)。

@@ -21,6 +21,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
-您可以在[Audience Manager以裝置為基礎的目的地檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html)中檢視可用的伺服器對伺服器目的地合作夥伴清單。
+您可以在[Audience Manager以裝置為基礎的目的地檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html?lang=zh-Hant)中檢視可用的伺服器對伺服器目的地合作夥伴清單。
 
-如需有關目的地的其他資訊，請瀏覽產品檔案中的[目的地](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html)。
+如需有關目的地的其他資訊，請瀏覽產品檔案中的[目的地](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html?lang=zh-Hant)。

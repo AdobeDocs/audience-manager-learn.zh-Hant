@@ -26,4 +26,4 @@ Audience Manager最強大的功能之一，是載入離線資料，並將其與�
 
 在許多情況下，您會在實際上線資料之前，先為已上線的資料建立特徵。 不過，過程中可能會新增索引鍵和值，而您可能不再擁有利用此絕佳資料所需的所有特徵。 透過[!UICONTROL Data Explorer]，您可以快速搜尋以檢視所有已上線的資料，並依特定[!UICONTROL Data Source]篩選，或甚至篩選至索引鍵和/或值。 此搜尋可讓您有效率地驗證資料。
 
-如需[!DNL Data Explorer]的詳細資訊，請造訪[https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)。
+如需[!DNL Data Explorer]的詳細資訊，請造訪[https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=zh-Hant](https://experiencecloud.adobe.com/resources/help/zh_TW/aam/data-explorer.html)。
