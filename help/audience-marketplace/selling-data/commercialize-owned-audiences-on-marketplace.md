@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 在Marketplace上將擁有的對象商業化
 
-在本影片中，瞭解如何將您的資料設定為Audience Marketplace上的私人或公開資料摘要，讓您成為第二方或第三方資料的資料提供者。
+在本影片中，瞭解如何在Audience Marketplace上將您的資料設定為私人或公開資料摘要，讓您成為第二方或第三方資料的資料提供者。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331721/?quality=12&learn=on)

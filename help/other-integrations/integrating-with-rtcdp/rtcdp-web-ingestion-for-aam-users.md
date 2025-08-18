@@ -1,6 +1,6 @@
 ---
 title: 瞭解適用於Audience Manager使用者的Real-time CDP中的Web資料擷取
-description: 此影片向Audience Manager使用者展示有關將網站資料引進Real-time Customer Data Platform (Real-time CDP)的概念，並包括深入探討Audience Manager資料聯結器適合的位置，以及資料如何從網站直接通過Web SDK移轉到Real-time CDP。
+description: 此影片向Audience Manager使用者說明將網站資料引進Real-time Customer Data Platform (Real-time CDP)的相關概念，並概括性地介紹Audience Manager Data Connector適合的位置，以及資料如何從網站直接通過Web SDK移轉到Real-time CDP。
 feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # 瞭解適用於Audience Manager使用者的Real-time CDP中的Web資料擷取
 
-此影片向Audience Manager使用者展示有關將網站資料引進Real-time Customer Data Platform (Real-time CDP)的概念，並包括深入探討Audience Manager資料聯結器適合的位置，以及資料如何從網站直接通過Web SDK移轉到Real-time CDP。
+此影片向Audience Manager使用者說明將網站資料引進Real-time Customer Data Platform (Real-time CDP)的相關概念，並概括性地介紹Audience Manager Data Connector適合的位置，以及資料如何從網站直接通過Web SDK移轉到Real-time CDP。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331752/?quality=12&learn=on)
 
@@ -26,6 +26,6 @@ ht-degree: 1%
 
 以下是可協助您瞭解Real-time Customer Data Platform的一些現有影片和教學課程。 歡迎探索其他影片和教學課程，深入瞭解Platform。
 
-* [使用Adobe Audience Manager資料聯結器擷取資料](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=zh-Hant#sources)
-* [Adobe Experience Platform Web SDKTutorials](https://experienceleague.adobe.com/docs/web-sdk-learn/tutorials/overview.html?lang=zh-Hant)
-* [使用結構描述編輯器建立結構描述](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=zh-Hant#getting-started)
+* [使用Adobe Audience Manager資料聯結器擷取資料](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
+* [Adobe Experience Platform Web SDK教學課程](https://experienceleague.adobe.com/docs/web-sdk-learn/tutorials/overview.html?lang=en)
+* [使用結構描述編輯器建立結構描述](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)

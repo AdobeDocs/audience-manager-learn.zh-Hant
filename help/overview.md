@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Audience Manager教學課程
 
-歡迎使用Audience Manager教學課程網站。 使用這些教學課程以及[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=zh-Hant)，可讓您更妥善地瞭解如何使用Adobe Audience Manager，透過Adobe同級最佳的[!DNL data management platform]在任何管道或裝置上建立及啟用對象。
+歡迎使用Audience Manager教學課程網站。 使用這些教學課程以及[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html)，可讓您更進一步瞭解如何使用Adobe Audience Manager，透過Adobe同級最佳的[!DNL data management platform]在任何管道或裝置上建立及啟用對象。
 
 * **員工精選**&#x200B;特別顯示我們最喜歡的一些內容
 * 在&#x200B;**左側導覽**&#x200B;中依主題和副主題探索內容
@@ -38,11 +38,11 @@ ht-degree: 0%
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=zh-Hant">
-      <img alt="「使用Web SDK實作Adobe Experience Cloud教學課程」的縮圖影像" src="assets/implement-web-sdk.jpg" />
+    <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
+      <img alt="「使用Web SDK實作Adobe Experience Cloud」教學課程的縮圖影像" src="assets/implement-web-sdk.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=zh-Hant">
+      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
     <strong>使用Web SDK教學課程實作Adobe Experience Cloud</strong>
     </a>
     </div>
@@ -51,24 +51,24 @@ ht-degree: 0%
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=zh-Hant">
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
       <img alt="「瞭解Real-time CDP中的區段」教學課程的縮圖影像" src="assets/331901.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=zh-Hant">
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
     <strong>瞭解適用於Audience Manager使用者的Real-time CDP中的區段</strong>
     </a>
     </div>
     <p>
-    <em>此影片檢視Audience Manager與Real-time CDP之間有關區段和區段建立的差異。</em>
+    <em>此影片說明Audience Manager與Real-time CDP之間有關區段和區段建立的差異。</em>
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=zh-Hant">
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
       <img alt="「在Audience Manager中設定預測對象及製作報表」教學課程的縮圖影像" src="assets/33630.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=zh-Hant">
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
     <strong>在Audience Manager中設定預測對象並製作報表</strong>
     </a>
     </div>

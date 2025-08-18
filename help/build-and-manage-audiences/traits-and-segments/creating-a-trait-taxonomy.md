@@ -1,6 +1,6 @@
 ---
 title: 建立特徵分類法
-description: 瞭解建立資料夾結構以在Audience Manager中儲存您特徵的秘訣。
+description: 瞭解在Audience Manager中建立資料夾結構用以存放特性的秘訣。
 feature: Traits
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 建立特徵分類法
 
-瞭解建立資料夾結構以在Audience Manager中儲存您特徵的秘訣。
+瞭解在Audience Manager中建立資料夾結構用以存放特性的秘訣。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40266/?quality=12&learn=on)

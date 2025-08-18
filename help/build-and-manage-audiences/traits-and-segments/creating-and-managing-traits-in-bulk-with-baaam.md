@@ -22,7 +22,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/330749/?quality=12&learn=on)
 
-如需詳細資訊，包括下載BAAAM工作表，請瀏覽[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=zh-Hant#reference)。
+如需詳細資訊，包括下載BAAAM工作表，請瀏覽[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=en#reference)。
 
 >[!IMPORTANT]
 >

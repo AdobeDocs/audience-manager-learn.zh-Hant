@@ -21,4 +21,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 
-如需詳細資訊，請造訪產品檔案中的[可定址對象](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=zh-Hant)。
+如需詳細資訊，請造訪產品檔案中的[可定址對象](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html)。

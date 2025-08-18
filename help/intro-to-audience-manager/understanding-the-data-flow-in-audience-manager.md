@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# 瞭解Audience Manager的資料流程
+# 瞭解Audience Manager中的資料流程
 
 本影片說明流入、流經和流出應用程式的資料流程，以協助您瞭解Adobe Audience Manager。
 

@@ -28,7 +28,7 @@ ht-degree: 1%
 <table>
   <tr>
    <td>平台 </td>
-   <td>AAM Data Source ID </td>
+   <td>AAM資料Source ID </td>
    <td>ID格式 </td>
    <td>AAM PID </td>
    <td>附註 </td>
@@ -57,7 +57,7 @@ ht-degree: 1%
   <tr>
    <td>Microsoft Advertising ID (MAID)</td>
    <td>389146</td>
-   <td>Alpha數字字串</td>
+   <td>Alpha數值字串</td>
    <td>14593</td>
    <td>此ID必須以原始/未雜湊/未變更的表單參考來收集 — <a href="https://docs.microsoft.com/en-us/uwp/api/windows.system.userprofile.advertisingmanager.advertisingid">https://docs.microsoft.com/en-us/uwp/api/windows.system.userprofile.advertisingmanager.advertisingid</a><br/><a href="https://msdn.microsoft.com/en-us/library/windows/apps/windows.system.userprofile.advertisingmanager.advertisingid.aspx">https://msdn.microsoft.com/en-us/library/windows/apps/windows.system.userprofile.advertisingmanager.advertisingid.aspx</a></td>
   </tr>
@@ -75,27 +75,27 @@ ht-degree: 1%
 在應用程式中設定廣告商ID其實是兩個步驟的程式，首先擷取廣告商ID，然後將其傳送至Experience Cloud。 執行上述步驟的連結如下所述。
 
 1. 擷取ID
-   1. 有關[!DNL advertising ID]的[!DNL Apple]資訊可在[此處](https://developer.apple.com/documentation/adsupport/asidentifiermanager)找到。
-   1. 有關為[!DNL Android]開發人員設定[!DNL advertiser ID]的資訊，請參閱[這裡](http://android.cn-mirrors.com/google/play-services/id.html)。
-1. 使用SDK中的[!DNL setAdvertisingIdentifier]方法將其傳送至Experience Cloud
-   1. 使用`setAdvertisingIdentifier`的資訊位於[!DNL iOS]和[!DNL Android]的[檔案](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/identity/identity-api-reference#set-an-advertising-identifier)中。
+   1. 有關[!DNL Apple]的[!DNL advertising ID]資訊可在[此處](https://developer.apple.com/documentation/adsupport/asidentifiermanager)找到。
+   1. 有關為[!DNL advertiser ID]開發人員設定[!DNL Android]的資訊，請參閱[這裡](http://android.cn-mirrors.com/google/play-services/id.html)。
+1. 在SDK中使用[!DNL setAdvertisingIdentifier]方法將其傳送到Experience Cloud
+   1. 使用`setAdvertisingIdentifier`的資訊位於[和](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/identity/identity-api-reference#set-an-advertising-identifier)的[!DNL iOS]檔案[!DNL Android]中。
 
 `// iOS (Swift) example for using setAdvertisingIdentifier:`
 `ACPCore.setAdvertisingIdentifier([AdvertisingId]) // ...where [AdvertisingId] is replaced by the actual advertising ID`
 
 ## DCS錯誤訊息傳送不正確的ID  {#dcs-error-messaging-for-incorrect-ids}
 
-當不正確的全域裝置ID （IDFA、GAID等）即時提交給Audience Manager時，點選時將傳回錯誤代碼。 以下為傳回錯誤的範例，因為識別碼是以[!DNL Apple IDFA]的形式傳送，其中只應包含大寫字母，但識別碼中卻有小寫的「x」。
+當不正確的全域裝置ID （IDFA、GAID等）即時提交至Audience Manager時，點選時將會傳回錯誤代碼。 以下為傳回錯誤的範例，因為識別碼是以[!DNL Apple IDFA]的形式傳送，其中只應包含大寫字母，但識別碼中卻有小寫的「x」。
 
 ![錯誤影像](assets/image_4_.png)
 
-請參閱[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=zh-Hant#api-and-sdk-code)以取得錯誤代碼清單。
+請參閱[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=en#api-and-sdk-code)以取得錯誤代碼清單。
 
 ## 加入全球裝置ID {#onboarding-global-device-ids}
 
-除了即時提交全域裝置ID之外，您還能依據ID &quot;[!DNL onboard]&quot; （上傳）資料。 此程式與您根據客戶ID （通常透過索引鍵/值配對）上線資料時相同，但您只需使用適當的資料Source ID，即可將資料指派給全域裝置ID。 您可以在[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=zh-Hant#implementation-integration-guides)中找到有關上線流程的檔案。 請記得根據您使用的平台，使用全域資料來源ID。
+除了即時提交全域裝置ID之外，您還能依據ID &quot;[!DNL onboard]&quot; （上傳）資料。 此程式與您根據客戶ID （通常透過索引鍵/值配對）上線資料時相同，但您只需使用適當的資料Source ID，即可將資料指派給全域裝置ID。 您可以在[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=en#implementation-integration-guides)中找到有關上線流程的檔案。 請記得根據您使用的平台，使用全域資料來源ID。
 
-如果透過上線程式提交不正確的全域裝置ID，則錯誤將顯示在[[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=zh-Hant#reporting)中。
+如果透過上線程式提交不正確的全域裝置ID，則錯誤將顯示在[[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=en#reporting)中。
 
 以下為通過該報表發生的錯誤範例：
 

@@ -18,13 +18,13 @@ ht-degree: 0%
 
 ---
 
-# 以Audience Manager建立轉換特徵 {#creating-conversion-traits-in-audience-manager}
+# 在Audience Manager中建立轉換特徵 {#creating-conversion-traits-in-audience-manager}
 
 您的部分特徵是根據網站上的轉換。 在本影片中，瞭解如何指定這些角色，並瞭解非常重要的提示/疑問。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-您想讓訪客在您的網站上執行什麼動作？ 什麼是轉換事件？ 當然，根據您的網站型別/垂直和您的組織目標，此問題有許多不同的答案。 無論如何，在AAM中經常會為符合這些條件的訪客建立特徵。
+您想讓訪客在您的網站上執行什麼動作？ 什麼是轉換事件？ 當然，根據您的網站型別/垂直和您的組織目標，此問題有許多不同的答案。 無論如何，在AAM中，為符合這些條件的訪客建立特徵是很常見的做法。
 
 在AAM中，有一個欄位可讓您將特徵標示為轉換特徵，特別是在[!UICONTROL Audience Lab]中使用。
 

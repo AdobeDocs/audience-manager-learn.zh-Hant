@@ -1,6 +1,6 @@
 ---
 title: 使用Data Explorer處理來自Adobe Analytics的訊號
-description: 本影片將展示如何在Data Explorer中探索和使用您的Adobe Analytics資料，包括搜尋使用和未使用的訊號、建立Analytics特徵及瞭解資料。
+description: 本影片說明如何在Data Explorer中探索和使用您的Adobe Analytics資料，包括搜尋使用和未使用的訊號、建立Analytics特徵及瞭解資料。
 feature: Data Explorer
 topics: null
 activity: use
@@ -24,8 +24,8 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25150/?quality=12)
 
-Audience Manager中的主要資料來源之一很可能是分析解決方案，我們當然希望它是Adobe Analytics。
+進入Audience Manager的主要資料來源之一很可能是分析解決方案，我們當然希望這是Adobe Analytics。
 
 [!UICONTROL Data Explorer]已準備就緒，可協助您檢視各種報表套裝傳入的內容，當您探索尚未用於特徵的[!DNL Analytics]訊號時，您可以直接按一下[!DNL Trait Builder]並建立特徵，以在您的區段中運用這項強大的行為資料。
 
-如需[!DNL Data Explorer]的詳細資訊，請造訪[Data Explorer — 概述、優點和使用案例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=zh-Hant)。
+如需[!DNL Data Explorer]的詳細資訊，請造訪[Data Explorer — 概述、優點和使用案例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)。

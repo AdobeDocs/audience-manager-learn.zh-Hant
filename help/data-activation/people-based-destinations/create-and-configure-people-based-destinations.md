@@ -1,6 +1,6 @@
 ---
 title: 建立及設定以人物為基礎的目的地
-description: 瞭解建立以人物為基礎的目的地的先決條件，以及如何設定整合的帳戶(連結至合作夥伴，例如Facebook)。 瞭解目的地本身的產品內設定。
+description: 瞭解建立以人物為基礎的目的地的先決條件，以及如何設定整合的帳戶（連結至合作夥伴，例如Facebook）。 瞭解目的地本身的產品內設定。
 feature: People-based Destinations
 topics: null
 activity: setup

@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 使用案例詳細資訊 {#use-case-details}
 
-您是內容發佈者。 如果您已經將網站上轉換程式的詳細目錄售罄，您可能會認為您的機會到此為止。 輸入AAM相似專案[!UICONTROL Models]。 透過使用此功能，您可以進一步擴充已售出存貨，以及銷售可能尚未轉換，但看起來/行為類似於已轉換之人的受眾。 此受眾區段通常售價低於實際的轉換者，但可讓您為想在您的網站上刊登廣告的廣告商提供額外的受眾選項，以增加您的利潤。 此使用案例的額外優點在於，在第一方資料上執行此模型不會產生任何費用。
+您是內容發佈者。 如果您已經將網站上轉換程式的詳細目錄售罄，您可能會認為您的機會到此為止。 輸入AAM相似的[!UICONTROL Models]。 透過使用此功能，您可以進一步擴充已售出存貨，以及銷售可能尚未轉換，但看起來/行為類似於已轉換之人的受眾。 此受眾區段通常售價低於實際的轉換者，但可讓您為想在您的網站上刊登廣告的廣告商提供額外的受眾選項，以增加您的利潤。 此使用案例的額外優點在於，在第一方資料上執行此模型不會產生任何費用。
 
 本教學課程中的步驟如下：
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**注意：**&#x200B;在上述影片中，我展示的範例假設您有Adobe Analytics。 顯然，情況可能並非如此。 如果您有Google Analytics(GA)，我們有一個模組，可用來將資料傳送至AAM （請參閱[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=zh-Hant)），而且如果您網站上的轉換活動由GA傳送至AAM，則您可以從中建立轉換特徵。 如果您有其他分析解決方案（或沒有分析解決方案），您仍可透過我們的DIL代碼和`submit`函式等，將資料傳送至AAM。 （請參閱[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html?lang=zh-Hant)）。 接著，再次根據網站上執行轉換活動時傳送的資料建立轉換特徵。
+**注意：**&#x200B;在上述影片中，我展示的範例假設您有Adobe Analytics。 顯然，情況可能並非如此。 如果您使用Google Analytics (GA)，我們有一個模組可讓您將資料傳送至AAM （請參閱[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)），而且如果您網站上的轉換活動由GA傳送至AAM，則您可以從中建立轉換特徵。 如果您有其他分析解決方案（或沒有分析解決方案），您仍可透過我們的DIL程式碼和`submit`函式等，將資料傳送至AAM。 （請參閱[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)）。 接著，再次根據網站上執行轉換活動時傳送的資料建立轉換特徵。
 
 ## 從第一方資料建立相似模型 {#creating-a-look-alike-model-from-first-party-data}
 
@@ -64,4 +64,4 @@ ht-degree: 0%
 
 建立[!UICONTROL Algorithmic Trait]後，您可以建立新區段來放置它，好讓您可以啟用資料(您無法啟用特徵，但會建立一個含有[!UICONTROL Algorithmic Trait]的新單一特徵區段，好讓您可以啟用（使用）該區段。
 
-一旦您建立了在相似模型中得分較高的第一方訪客區段（亦即看起來像是轉換者，但尚未發生轉換），即使您已將網站上的實際轉換者庫存全部售罄，仍可將此區段提供給網站上的廣告商。 這是擴充此對象並在Audience Manager中使用相似[!UICONTROL Models]以繼續看到額外收入的絕佳方式。
+一旦您建立了在相似模型中得分較高的第一方訪客區段（亦即看起來像是轉換者，但尚未發生轉換），即使您已將網站上的實際轉換者庫存全部售罄，仍可將此區段提供給網站上的廣告商。 這是延伸此對象並在Audience Manager中使用相似[!UICONTROL Models]持續看到額外收入的絕佳方式。

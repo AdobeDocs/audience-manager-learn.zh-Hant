@@ -1,6 +1,6 @@
 ---
-title: 將資料傳送至SPA時，請在AAM頁面上使用最佳實務
-description: 瞭解將資料從單頁應用程式(SPA)傳送至Adobe Audience Manager (AAM)的最佳實務。 本文章著重於使用Experience Platform標籤，此為建議的實作方法。
+title: 將資料傳送至AAM時，請在SPA頁面上使用最佳實務
+description: 瞭解從單頁應用程式(SPA)傳送資料至Adobe Audience Manager (AAM)的最佳實務。 本文主要說明如何使用Experience Platform標籤，此為建議的實作方法。
 feature: Implementation Basics
 topics: spa
 activity: implement
@@ -18,21 +18,21 @@ ht-degree: 0%
 
 ---
 
-# 將資料傳送至SPA時，請在AAM頁面上使用最佳實務 {#using-best-practices-on-spa-pages-when-sending-data-to-aam}
+# 將資料傳送至AAM時，請在SPA頁面上使用最佳實務 {#using-best-practices-on-spa-pages-when-sending-data-to-aam}
 
 本檔案說明從單頁應用程式(SPA)傳送資料至Adobe Audience Manager (AAM)的幾種最佳作法。 本文著重於使用[!UICONTROL Experience Platform tags] （建議的實作方法）。
 
 ## 初始附註
 
 * 以下專案假設您正使用Platform標籤在您的網站上實作。 如果您未使用Platform標籤，但可能需要根據您的實作方法調整，可能仍適用這些考量。
-* 所有SPA並不相同，因此您可能需要調整部分以下專案，以最符合您的需求，但Adobe想要分享一些您從SPA頁面傳送資料至Audience Manager時需要考慮的最佳實務。
+* 所有SPA不同，因此您可能需要調整部分以下專案，以最符合您的需求，但Adobe想要分享一些您從SPA頁面傳送資料至Audience Manager時需要考慮的最佳實務。
 
-## 在Experience Platform標籤（前身為Launch）中使用SPA和AAM的簡圖{#simple-diagram-of-working-with-spas-and-aam-in-experience-platform-launch}
+## 在Experience Platform標籤（前身為Launch）中使用SPA和AAM的簡單圖表{#simple-diagram-of-working-with-spas-and-aam-in-experience-platform-launch}
 
 標籤中aam的![spa](assets/spa_for_aam_in_launch.png)
 
 >[!NOTE]
->如前所述，這是如何在Adobe Audience Manager實施(不含Adobe Analytics)中使用Platform標籤處理SPA頁面的簡圖。 如您所見，這是相當直截了當的決定，其中最重大的決定是如何將檢視變更（或動作）傳達給Platform標籤。
+>如前所述，這是如何在Adobe Audience Manager實作(不含Adobe Analytics)中使用Platform標籤處理SPA頁面的簡圖。 如您所見，這是相當直截了當的決定，其中最重大的決定是如何將檢視變更（或動作）傳達給Platform標籤。
 
 ## 從SPA頁面觸發標籤 {#triggering-launch-from-the-spa-page}
 
@@ -45,11 +45,11 @@ ht-degree: 0%
 
 ## 示範頁面 {#demo-page}
 
-以下是一個小頁面，示範如何變更資料層中的值並將其傳送到Audience Manager中(您可能在SPA頁面上這麼做)。 此功能可以模型化，以因應更複雜的必要變更。 您可以在[這裡](https://aam.enablementadobe.com/SPA-Launch.html)找到此示範頁面。
+以下是一個小頁面，示範如何變更資料層中的值並將其傳送到Audience Manager，例如您在SPA頁面上執行的操作。 此功能可以模型化，以因應更複雜的必要變更。 您可以在[這裡](https://aam.enablementadobe.com/SPA-Launch.html)找到此示範頁面。
 
 ## 設定資料層 {#setting-the-data-layer}
 
-如前所述，當新內容載入頁面上，或有人在網站上執行動作時，必須在頁面標題中動態設定資料層，之後才會呼叫Platform標籤並執行[!UICONTROL rules]，這樣Platform標籤就能從資料層擷取新值，並將它們推入Audience Manager。
+如前所述，當新內容載入頁面上，或有人在網站上執行動作時，必須在頁面標題中動態設定資料層，之後才會呼叫Platform標籤並執行[!UICONTROL rules]，讓Platform標籤可以從資料層擷取新值，並將它們推送到Audience Manager。
 
 如果您前往上述示範網站並檢視頁面來源，您將會看到：
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 ## 其他資源 {#additional-resources}
 
-* Adobe論壇上的[SPA討論](https://forums.adobe.com/thread/2451022)
-* [參考架構網站，說明如何在Platform標籤中實作SPA](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html)
+* 在Adobe論壇上[SPA討論](https://forums.adobe.com/thread/2451022)
+* [參考架構網站說明如何在Platform標籤中實作SPA](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html)
 * [在Adobe Analytics中追蹤SPA時使用最佳實務](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html)
 * [用於本文章的示範網站](https://aam.enablementadobe.com/SPA-Launch.html)

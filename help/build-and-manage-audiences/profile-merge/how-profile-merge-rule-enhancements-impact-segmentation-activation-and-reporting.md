@@ -1,6 +1,6 @@
 ---
 title: 設定檔合併規則增強功能如何影響細分、啟用和報告
-description: 瞭解設定檔合併規則增強功能將如何影響Audience ManagerUI中的總計特徵和區段母體
+description: 瞭解設定檔合併規則增強功能將如何影響Audience Manager UI中的總計特徵和區段母體
 feature: Profile Merge
 topics: null
 activity: understand

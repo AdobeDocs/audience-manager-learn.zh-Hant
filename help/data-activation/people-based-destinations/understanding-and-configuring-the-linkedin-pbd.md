@@ -1,6 +1,6 @@
 ---
-title: 瞭解及設定LinkedIn以人物為基礎的目的地
-description: 此影片將逐步說明相關概念，並逐步引導您建立LinkedIn的以人物為基礎的目的地。 它以其他有關「以人物為基礎的目的地」的影片和檔案為基礎。
+title: 瞭解並設定LinkedIn以人物為基礎的目的地
+description: 此影片將逐步說明相關概念，並逐步引導您建立LinkedIn「以人物為基礎的目的地」。 它以其他有關「以人物為基礎的目的地」的影片和檔案為基礎。
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -24,6 +24,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/34171/?quality=12)
 
-如需詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=zh-Hant)。
+如需詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)。
 
 您也可在[此處](https://adobe.ly/aamlearnpbd)找到其他以人物為基礎的目的地的相關影片。

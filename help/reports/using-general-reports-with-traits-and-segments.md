@@ -1,6 +1,6 @@
 ---
 title: 使用具有特徵和區段的一般報表
-description: 在本影片中，瞭解如何在Audience Manager中使用一般報表，以取得特徵和區段的數字。
+description: 此影片會說明如何使用Audience Manager的一般報表來取得特徵和區段的資料。
 feature: General & Trend Reports
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 使用具有特徵和區段的一般報表
 
-在本影片中，瞭解如何在Audience Manager中使用一般報表，以取得特徵和區段的數字。
+在此影片中，瞭解如何使用Audience Manager的一般報表來取得特徵和區段的數字。
 
 >[!VIDEO](https://video.tv.adobe.com/v/328279/?quality=12&learn=on)

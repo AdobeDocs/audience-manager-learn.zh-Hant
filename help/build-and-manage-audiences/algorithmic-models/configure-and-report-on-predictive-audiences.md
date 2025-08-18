@@ -20,8 +20,8 @@ ht-degree: 0%
 
 # 在Audience Manager中設定並報告[!UICONTROL Predictive Audiences]
 
-在本影片中，我們將在Audience Manager介面中逐步進行[!UICONTROL Predictive Audiences]設定。 我們也會呈現顯示模型結果的報表。
+在本影片中，我們將在Audience Manager介面中逐步說明[!UICONTROL Predictive Audiences]設定。 我們也會呈現顯示模型結果的報表。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33630/?quality=12)
 
-如需詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html?lang=zh-Hant)。
+如需詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html)。

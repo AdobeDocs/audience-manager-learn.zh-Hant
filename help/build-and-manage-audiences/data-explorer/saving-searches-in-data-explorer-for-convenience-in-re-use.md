@@ -1,5 +1,5 @@
 ---
-title: 以Data Explorer儲存搜尋，以方便重複使用
+title: 在Data Explorer中儲存搜尋，以方便重複使用
 description: 在本影片中，瞭解如何在Data Explorer中設定搜尋、執行，然後儲存以供日後重複使用。 您也可以將已儲存的搜尋放置在控制面板上，以便在您進入Signals應用程式時立即可用。
 feature: Data Explorer
 topics: null
@@ -25,4 +25,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
 
-如需[!UICONTROL Data Explorer]的詳細資訊，請造訪[Data Explorer — 概述、優點和使用案例](https://experiencecloud.adobe.com/resources/help/zh_TW/aam/data-explorer.html)。
+如需[!UICONTROL Data Explorer]的詳細資訊，請造訪[Data Explorer — 概述、優點和使用案例](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)。

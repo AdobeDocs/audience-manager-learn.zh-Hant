@@ -1,6 +1,6 @@
 ---
 title: 使用具有特徵和區段的趨勢報表
-description: 瞭解如何在Audience Manager中使用趨勢報表，以檢視特徵和區段隨時間的表現。
+description: 瞭解如何使用Audience Manager中的趨勢報表，以檢視特徵和區段隨時間的表現。
 feature: General & Trend Reports
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 使用具有特徵和區段的趨勢報表
 
-瞭解如何在Audience Manager中使用趨勢報表，以觀察特徵和區段隨時間的表現。
+瞭解如何使用Audience Manager中的趨勢報表，以觀察特徵和區段隨時間的表現。
 
 >[!VIDEO](https://video.tv.adobe.com/v/328280/?quality=12&learn=on)

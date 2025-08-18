@@ -1,6 +1,6 @@
 ---
 title: 如何識別您的合作夥伴ID或子網域
-description: 瞭解如何在實作某些Experience Cloud功能時識別您的合作夥伴ID或子網域，以及可在Audience ManagerUI中取得此ID的兩個位置。
+description: 瞭解如何在實作部分Experience Cloud功能時識別您的合作夥伴ID或子網域，以及可在Audience Manager UI中取得此ID的兩個位置。
 feature: Implementation Basics
 topics: null
 activity: implement
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 如何識別您的Audience Manager子網域 {#how-to-identify-your-audience-manager-partner-id-or-subdomain}
 
-實作某些Experience Cloud功能時，您需要知道您的Audience Manager`Subdomain`是什麼（有時也稱為您的`client ID`或`Partner ID`）。 在本影片中，我們將向您顯示兩個您可以在Audience ManagerUI中取得此資訊的位置。
+實作某些Experience Cloud功能時，您需要知道您的Audience Manager `Subdomain`是什麼（有時也稱為您的`client ID`或`Partner ID`）。 在本影片中，我們將說明您可以在Audience Manager UI中取得此資訊的兩個位置。
 
 ## 正在放棄結局…… {#giving-away-the-ending}
 

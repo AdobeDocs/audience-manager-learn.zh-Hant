@@ -16,7 +16,7 @@ ht-degree: 68%
 
 ---
 
-# 建立[!DNL Analytics]資料的[!UICONTROL Data Source] {#create-a-data-source-for-analytics-data}
+# 建立[!UICONTROL Data Source]資料的[!DNL Analytics] {#create-a-data-source-for-analytics-data}
 
 在此影片中，我們將逐步介紹在Audience Manager中建立[!UICONTROL Data Source]的步驟（包括秘訣和訣竅），供您用於從Adobe Analytics等分析解決方案即時傳入的資料。 請先觀看此影片，再為分析資料建立特徵。
 
