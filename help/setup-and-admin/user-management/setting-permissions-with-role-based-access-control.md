@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Adobe Audience Manager中基於角色的存取控制可讓您在群組層級管理許可權，控制哪些人可以檢視和使用特徵、區段、目的地和模型等資產。 瞭解如何設定許可權群組並將使用者新增至許可權群組。
 
->[!VIDEO](https://video.tv.adobe.com/v/329120/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449398/?quality=12&learn=on&captions=chi_hant)
