@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/37056/?quality=12&learn=on)
 
-如需有關區段的詳細資訊，請參閱[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html)。
+如需有關區段的詳細資訊，請參閱[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html?lang=zh-Hant)。

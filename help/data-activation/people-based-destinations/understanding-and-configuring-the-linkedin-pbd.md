@@ -24,6 +24,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/34171/?quality=12)
 
-如需詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)。
+如需詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=zh-Hant)。
 
 您也可在[此處](https://adobe.ly/aamlearnpbd)找到其他以人物為基礎的目的地的相關影片。

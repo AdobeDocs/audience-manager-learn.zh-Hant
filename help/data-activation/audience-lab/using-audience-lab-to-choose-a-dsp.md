@@ -32,4 +32,4 @@ ht-degree: 0%
 1. 檢查測試摘要並啟動測試
 1. 完成測試後，存取[!UICONTROL Audience Lab]主主畫面上的結果
 
-如需其他資訊，請參閱[功能檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html)。
+如需其他資訊，請參閱[功能檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html?lang=zh-Hant)。

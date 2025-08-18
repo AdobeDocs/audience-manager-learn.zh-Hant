@@ -25,11 +25,11 @@ ht-degree: 3%
    + 價值實現 {#value-realization}
       + [在抑制客戶使用案例中測量ROI](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
 + 產業新聞與趨勢 {#industry}
-   + [資料管理的未來和不斷變化的環境](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html)
-   + [負責任的客戶資料管理的10項考量事項](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
-   + [兩種見解的故事 — 品牌與消費者](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html)
-   + [發展您的卓越受眾中心](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html)
-   + [使用客戶設定檔建立更好的體驗](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html)
+   + [資料管理的未來和不斷變化的環境](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html?lang=zh-Hant)
+   + [負責任的客戶資料管理的10項考量事項](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=zh-Hant)
+   + [兩種見解的故事 — 品牌與消費者](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html?lang=zh-Hant)
+   + [發展您的卓越受眾中心](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html?lang=zh-Hant)
+   + [使用客戶設定檔建立更好的體驗](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html?lang=zh-Hant)
 + 設定和管理 {#setup-and-admin}
    + 資料來源 {#data-sources}
       + [建立Analytics資料的資料來源](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
@@ -46,7 +46,7 @@ ht-degree: 3%
    + DIL (Data Integration Library) {#dil}
       + [更新至DIL 8.0版（或更新版本）](web-implementation/dil/updating-to-dil-version-8-0-or-greater.md)
    + SSF （伺服器端轉送） {#ssf}
-      + [使用Experience Platform標籤在網站中實作](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
+      + [使用Experience Platform標籤在網站中實作](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=zh-Hant)
       + [將您網站的AAM實作從使用者端DIL移轉至伺服器端轉送](web-implementation/ssf/migrating-your-site-implementation-from-client-side-dil-to-server-side-forwarding.md)
       + [從追蹤伺服器移轉至報表套裝層級的伺服器端轉送](web-implementation/ssf/migrating-from-tracking-server-to-report-suite-level-server-side-forwarding.md)
    + [使用標籤管理程式來實作Audience Manager](web-implementation/using-tag-managers-to-implement-audience-manager.md)
@@ -56,9 +56,9 @@ ht-degree: 3%
    + [格式化和擷取檔案型資料](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [擷取檔案型資料的步驟](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + 行動實施 {#mobile-implementation}
-   + [在iOS Swift應用程式中實作](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
-   + [在iOS Objective-C應用程式中實作](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
-   + [在Android應用程式中實作](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
+   + [在iOS Swift應用程式中實作](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=zh-Hant)
+   + [在iOS Objective-C應用程式中實作](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=zh-Hant)
+   + [在Android應用程式中實作](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=zh-Hant)
 + Audience Marketplace {#audience-marketplace}
    + 購買資料 {#buying-data}
       + [報告Audience Marketplace中區段層級的第二方和第三方資料使用情形](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
@@ -130,7 +130,7 @@ ht-degree: 3%
       + [使用資料匯出標籤來控制資料流量](data-activation/destinations-basics/using-data-export-labels-to-control-data-flow.md)
    + Audience Lab {#audience-lab}
       + [使用Audience Lab選擇DSP](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
-      + [建立轉換特徵](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html)
+      + [建立轉換特徵](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html?lang=zh-Hant)
    + 以人物為基礎的目的地 {#people-based-destinations}
       + [以人物為基礎的目的地影片和教學課程](data-activation/people-based-destinations/pbd.md)
       + [以人物為基礎的目的地資料流程](data-activation/people-based-destinations/people-based-destinations-data-flow.md)
@@ -150,7 +150,7 @@ ht-degree: 3%
    + [使用Audience Optimization報告瞭解媒體效能](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + 其他整合 {#other-integrations}
    + 與Real-time Customer Data平台整合 {#integrating-with-rtcdp}
-      + [使用Adobe Audience Manager資料聯結器擷取資料](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
+      + [使用Adobe Audience Manager資料聯結器擷取資料](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=zh-Hant#sources)
       + [瞭解Real-time CDP中的第一方資料擷取](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
       + [瞭解Real-time CDP中的網頁資料擷取](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
       + [瞭解Real-time CDP中的結構描述和XDM](other-integrations/integrating-with-rtcdp/rtcdp-schemas-xdm-for-aam-users.md)

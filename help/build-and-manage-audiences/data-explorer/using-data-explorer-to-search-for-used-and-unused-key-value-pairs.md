@@ -26,4 +26,4 @@ ht-degree: 0%
 
 為了找出是否已建立訊號至特徵，您不必再下載BAAAM檔案與[!UICONTROL Unused Signals]報表。 現在，只要在AAM的[!DNL Data Explorer] （亦即[!UICONTROL Signals]應用程式）中搜尋該索引鍵/值組，並尋找位於相同清單中特徵和不特徵中的索引鍵/值組。 節省時間好極了！
 
-如需[!UICONTROL Data Explorer]的詳細資訊，請造訪[Data Explorer — 概述、優點和使用案例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en))。
+如需[!UICONTROL Data Explorer]的詳細資訊，請造訪[Data Explorer — 概述、優點和使用案例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=zh-Hant))。

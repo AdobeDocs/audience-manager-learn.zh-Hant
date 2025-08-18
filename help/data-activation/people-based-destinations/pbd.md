@@ -33,4 +33,4 @@ ht-degree: 0%
 * [建立及設定以人物為基礎的目的地](create-and-configure-people-based-destinations.md)
 * [瞭解並設定LinkedIn以人物為基礎的目的地](understanding-and-configuring-the-linkedin-pbd.md)
 
-這些視訊可與[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)搭配使用。
+這些視訊可與[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=zh-Hant)搭配使用。

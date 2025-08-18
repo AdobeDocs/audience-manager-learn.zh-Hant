@@ -89,13 +89,13 @@ ht-degree: 1%
 
 ![錯誤影像](assets/image_4_.png)
 
-請參閱[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=en#api-and-sdk-code)以取得錯誤代碼清單。
+請參閱[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=zh-Hant#api-and-sdk-code)以取得錯誤代碼清單。
 
 ## 加入全球裝置ID {#onboarding-global-device-ids}
 
-除了即時提交全域裝置ID之外，您還能依據ID &quot;[!DNL onboard]&quot; （上傳）資料。 此程式與您根據客戶ID （通常透過索引鍵/值配對）上線資料時相同，但您只需使用適當的資料Source ID，即可將資料指派給全域裝置ID。 您可以在[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=en#implementation-integration-guides)中找到有關上線流程的檔案。 請記得根據您使用的平台，使用全域資料來源ID。
+除了即時提交全域裝置ID之外，您還能依據ID &quot;[!DNL onboard]&quot; （上傳）資料。 此程式與您根據客戶ID （通常透過索引鍵/值配對）上線資料時相同，但您只需使用適當的資料Source ID，即可將資料指派給全域裝置ID。 您可以在[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=zh-Hant#implementation-integration-guides)中找到有關上線流程的檔案。 請記得根據您使用的平台，使用全域資料來源ID。
 
-如果透過上線程式提交不正確的全域裝置ID，則錯誤將顯示在[[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=en#reporting)中。
+如果透過上線程式提交不正確的全域裝置ID，則錯誤將顯示在[[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=zh-Hant#reporting)中。
 
 以下為通過該報表發生的錯誤範例：
 

@@ -26,5 +26,5 @@ ht-degree: 1%
 
 以下現有資源可協助您瞭解Real-time Customer Data Platform。
 
-* [存取控制總覽](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=en#access-control-hierarchy-and-workflow)
-* [設定許可權](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/configure-permissions.html?lang=en)
+* [存取控制總覽](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=zh-Hant#access-control-hierarchy-and-workflow)
+* [設定許可權](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/configure-permissions.html?lang=zh-Hant)

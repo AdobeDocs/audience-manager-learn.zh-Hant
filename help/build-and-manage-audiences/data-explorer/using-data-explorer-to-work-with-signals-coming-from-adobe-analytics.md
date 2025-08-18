@@ -28,4 +28,4 @@ ht-degree: 0%
 
 [!UICONTROL Data Explorer]已準備就緒，可協助您檢視各種報表套裝傳入的內容，當您探索尚未用於特徵的[!DNL Analytics]訊號時，您可以直接按一下[!DNL Trait Builder]並建立特徵，以在您的區段中運用這項強大的行為資料。
 
-如需[!DNL Data Explorer]的詳細資訊，請造訪[Data Explorer — 概述、優點和使用案例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)。
+如需[!DNL Data Explorer]的詳細資訊，請造訪[Data Explorer — 概述、優點和使用案例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=zh-Hant)。

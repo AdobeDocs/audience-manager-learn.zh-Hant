@@ -26,6 +26,6 @@ ht-degree: 1%
 
 以下是可協助您瞭解Real-time Customer Data Platform的一些現有影片和教學課程。 歡迎探索其他影片和教學課程，深入瞭解Platform。
 
-* [瞭解XDM系統與Experience資料模型](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
-* [建立結構描述](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
-* [使用結構描述編輯器建立結構描述](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
+* [瞭解XDM系統與Experience資料模型](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html?lang=zh-Hant)
+* [建立結構描述](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html?lang=zh-Hant)
+* [使用結構描述編輯器建立結構描述](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=zh-Hant#getting-started)
