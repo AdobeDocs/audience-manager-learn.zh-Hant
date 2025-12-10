@@ -26,6 +26,6 @@ ht-degree: 0%
 
 此版本為第二方和第三方資料使用提供更大的彈性和改進的工作流程，可讓客戶透過UI或使用大量上傳功能，在區段層級報告曝光數。
 
-此外，從[!UICONTROL Audience Marketplace]購買第二方或第三方資料的客戶，可受益於改良的成本歸因政策。 這項新政策會根據規則型區段中特徵的獨特使用者計數，將成本歸因至資料提供者，藉此提高透明度和公平使用帳單。 如需帳單演演算法的詳細資訊，請參閱產品檔案中的[CPM資料摘要的成本歸因](https://experiencecloud.adobe.com/resources/help/en_US/aam/marketplace_cpm_billing.html)。
+此外，從[!UICONTROL Audience Marketplace]購買第二方或第三方資料的客戶，可受益於改良的成本歸因政策。 這項新政策會根據規則型區段中特徵的獨特使用者計數，將成本歸因至資料提供者，藉此提高透明度和公平使用帳單。 如需帳單演演算法的詳細資訊，請參閱產品檔案中的[CPM資料摘要的成本歸因](https://experiencecloud.adobe.com/resources/help/zh_TW/aam/marketplace_cpm_billing.html)。
 
-如需報告CPM使用量的詳細資訊，請參閱產品說明檔案中的[如何報告CPM使用量](https://experiencecloud.adobe.com/resources/help/en_US/aam/t_marketplace_report_cpm_usage.html)。
+如需報告CPM使用量的詳細資訊，請參閱產品說明檔案中的[如何報告CPM使用量](https://experiencecloud.adobe.com/resources/help/zh_TW/aam/t_marketplace_report_cpm_usage.html)。

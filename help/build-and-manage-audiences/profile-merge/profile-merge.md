@@ -32,4 +32,4 @@ ht-degree: 0%
 * [解譯對象身分報表](interpret-audience-identity-reporting.md)
 * [瞭解Audience Manager中的跨裝置量度](understanding-cross-device-metrics-in-audience-manager.md)
 
-這些視訊可搭配[設定檔合併規則檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)使用
+這些視訊可搭配[設定檔合併規則檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html?lang=zh-Hant)使用
