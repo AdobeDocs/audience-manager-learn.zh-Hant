@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 25148.jpg
 kt: 1760
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 3a9b135f-033f-4beb-a4f8-65df1b34e9f9
-source-git-commit: e5c694156ce6196b312fc54ae59755bac07ea676
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -26,4 +26,4 @@ ht-degree: 0%
 
 為了找出是否已建立訊號至特徵，您不必再下載BAAAM檔案與[!UICONTROL Unused Signals]報表。 現在，只要在AAM的[!DNL Data Explorer] （亦即[!UICONTROL Signals]應用程式）中搜尋該索引鍵/值組，並尋找位於相同清單中特徵和不特徵中的索引鍵/值組。 節省時間好極了！
 
-如需[!UICONTROL Data Explorer]的詳細資訊，請造訪[Data Explorer — 概述、優點和使用案例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=zh-Hant))。
+如需[!UICONTROL Data Explorer]的詳細資訊，請造訪[Data Explorer — 概述、優點和使用案例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en))。

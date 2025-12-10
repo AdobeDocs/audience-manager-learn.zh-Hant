@@ -5,10 +5,10 @@ feature: Destination Basics
 doc-type: presentation
 thumbnail: 29839.jpg
 kt: 4016
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 8e4026fb-6ee7-4f42-afb2-7600c87744d6
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
-您可以在[Audience Manager Device-based Destinations檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html?lang=zh-Hant)中檢視可用的伺服器對伺服器目的地合作夥伴清單。
+您可以在[Audience Manager Device-based Destinations檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html)中檢視可用的伺服器對伺服器目的地合作夥伴清單。
 
-如需有關目的地的其他資訊，請瀏覽產品檔案中的[目的地](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html?lang=zh-Hant)。
+如需有關目的地的其他資訊，請瀏覽產品檔案中的[目的地](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html)。

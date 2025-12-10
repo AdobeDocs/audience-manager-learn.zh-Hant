@@ -8,10 +8,10 @@ doc-type: technical video
 team: Technical Marketing
 kt: 1390
 topic: SPA
-role: Developer, Data Engineer
+role: Developer
 level: Experienced
 exl-id: 99ec723a-dd56-4355-a29f-bd6d2356b402
-source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '547'
 ht-degree: 0%

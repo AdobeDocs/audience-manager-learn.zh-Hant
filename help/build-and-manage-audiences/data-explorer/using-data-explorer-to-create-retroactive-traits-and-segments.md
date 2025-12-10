@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 25169.jpg
 kt: 1762
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 1bb40810-dca9-475f-a312-6e2c1be8149c
-source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -26,4 +26,4 @@ ht-degree: 0%
 
 到目前為止，當您建立特徵時，特徵只會在日後收集資料。 這表示您必須建立許多特徵，以防他們收到流量或資料。 現在，您可以等待檢視哪些索引鍵/值組收到資料，然後建立特徵並將資料回填到該特徵中。 這樣可節省時間和精力，還能協助您妥善處理特徵分類法，避免有多個不含資料的特徵。
 
-如需[!DNL Data Explorer]的詳細資訊，請造訪[Data Explorer — 概述、優點和使用案例](https://experiencecloud.adobe.com/resources/help/zh_TW/aam/data-explorer.html)。
+如需[!DNL Data Explorer]的詳細資訊，請造訪[Data Explorer — 概述、優點和使用案例](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)。

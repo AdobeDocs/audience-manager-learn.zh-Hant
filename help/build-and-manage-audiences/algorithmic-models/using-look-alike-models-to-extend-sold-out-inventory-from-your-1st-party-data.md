@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 23523.jpg
 kt: 1688
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Intermediate
 exl-id: 6820528e-3211-4a1d-be05-50f1292179d2
-source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '849'
 ht-degree: 0%
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**注意：**&#x200B;在上述影片中，我展示的範例假設您有Adobe Analytics。 顯然，情況可能並非如此。 如果您使用Google Analytics (GA)，我們有一個模組可讓您將資料傳送至AAM （請參閱[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=zh-Hant)），而且如果您網站上的轉換活動由GA傳送至AAM，則您可以從中建立轉換特徵。 如果您有其他分析解決方案（或沒有分析解決方案），您仍可透過我們的DIL程式碼和`submit`函式等，將資料傳送至AAM。 （請參閱[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html?lang=zh-Hant)）。 接著，再次根據網站上執行轉換活動時傳送的資料建立轉換特徵。
+**注意：**&#x200B;在上述影片中，我展示的範例假設您有Adobe Analytics。 顯然，情況可能並非如此。 如果您使用Google Analytics (GA)，我們有一個模組可讓您將資料傳送至AAM （請參閱[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)），而且如果您網站上的轉換活動由GA傳送至AAM，則您可以從中建立轉換特徵。 如果您有其他分析解決方案（或沒有分析解決方案），您仍可透過我們的DIL程式碼和`submit`函式等，將資料傳送至AAM。 （請參閱[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)）。 接著，再次根據網站上執行轉換活動時傳送的資料建立轉換特徵。
 
 ## 從第一方資料建立相似模型 {#creating-a-look-alike-model-from-first-party-data}
 

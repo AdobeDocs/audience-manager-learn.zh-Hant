@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 26228.jpg
 kt: 2431
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 2d1b66fc-0091-44d1-970a-f30d6d5cca4c
-source-git-commit: e5c694156ce6196b312fc54ae59755bac07ea676
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -26,4 +26,4 @@ ht-degree: 0%
 
 [!UICONTROL Trait Recommendations]同時處理第一方和第三方資料，因此您可以包含其他建議的[!UICONTROL Traits]，並增加您的目標對象。
 
-如需有關此功能的詳細資訊，請瀏覽[檔案](https://experiencecloud.adobe.com/resources/help/zh_TW/aam/trait-recommendations.html)。
+如需有關此功能的詳細資訊，請瀏覽[檔案](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html)。

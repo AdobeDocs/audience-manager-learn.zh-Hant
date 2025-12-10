@@ -9,10 +9,10 @@ team: Technical Marketing
 kt: 5106
 thumbnail: 33894.jpg
 topic: Architecture
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: cf0dbcb1-0d3c-4afd-b979-1c59a9849720
-source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -25,4 +25,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/33894/?quality=12)
 
-如需詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=zh-Hant)。
+如需詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html)。

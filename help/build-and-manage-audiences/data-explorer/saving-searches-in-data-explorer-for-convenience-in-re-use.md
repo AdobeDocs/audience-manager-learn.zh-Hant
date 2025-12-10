@@ -9,10 +9,10 @@ author: Doug Moore
 team: Technical Marketing
 thumbnail: 25147.jpg
 kt: 1763
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: aff58324-52f6-438d-8aae-4f2e8cd16ae0
-source-git-commit: e5c694156ce6196b312fc54ae59755bac07ea676
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
@@ -25,4 +25,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
 
-如需[!UICONTROL Data Explorer]的詳細資訊，請造訪[Data Explorer — 概述、優點和使用案例](https://experiencecloud.adobe.com/resources/help/zh_TW/aam/data-explorer.html)。
+如需[!UICONTROL Data Explorer]的詳細資訊，請造訪[Data Explorer — 概述、優點和使用案例](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)。
