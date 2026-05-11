@@ -3,11 +3,13 @@ user-guide-title: Adobe Audience Manager 教學課程
 user-guide-description: Adobe Analytics 的影片和教學課程系列。
 breadcrumb-title: Audience Manager 教學課程
 solution: Audience Manager
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
 type: Tutorial
-source-git-commit: f9708e705d95b43084ff11e342dc54ff11d6326c
+source-git-commit: 73d16f8b9fda736f962ca4317d04aa93dcbe216c
 workflow-type: tm+mt
-source-wordcount: '895'
-ht-degree: 3%
+source-wordcount: 1089
+ht-degree: 2%
 
 ---
 
@@ -26,7 +28,7 @@ ht-degree: 3%
       + [在抑制客戶使用案例中測量ROI](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
 + 產業新聞與趨勢 {#industry}
    + [資料管理的未來和不斷變化的環境](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html?lang=zh-Hant)
-   + [負責任的客戶資料管理的10項考量事項](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=zh-Hant)
+   + [負責任的客戶資料管理的十大考量因素](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=zh-Hant)
    + [兩種見解的故事 — 品牌與消費者](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html?lang=zh-Hant)
    + [發展您的卓越受眾中心](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html?lang=zh-Hant)
    + [使用客戶設定檔建立更好的體驗](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html?lang=zh-Hant)
@@ -56,9 +58,9 @@ ht-degree: 3%
    + [格式化和擷取檔案型資料](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [擷取檔案型資料的步驟](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + 行動實施 {#mobile-implementation}
-   + [在iOS Swift應用程式中實作](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=zh-Hant)
-   + [在iOS Objective-C應用程式中實作](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=zh-Hant)
-   + [在Android應用程式中實作](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=zh-Hant)
+   + [iOS Swift應用程式中的實作](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=zh-Hant)
+   + [iOS Objective-C應用程式中的實作](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=zh-Hant)
+   + [Android應用程式中的實作](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=zh-Hant)
 + Audience Marketplace {#audience-marketplace}
    + 購買資料 {#buying-data}
       + [報告Audience Marketplace中區段層級的第二方和第三方資料使用情形](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
