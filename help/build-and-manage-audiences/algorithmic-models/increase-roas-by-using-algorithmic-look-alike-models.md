@@ -11,9 +11,15 @@ kt: 1849
 role: User, Developer, Admin, Leader
 level: Intermediate
 exl-id: 6626ae11-8709-4302-9e03-0d55878d2409
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/rQ-djjfEOZDjR3IdvvJnO1Hb2tu6IUhz0uFhp-xuZq8
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2: id: c814092e-2730-45e8-a12d-e084529f52cbid: d8f86c1e-15ad-457f-9d6f-5e756573fad4
+subfeature_v2: id: d921db59-bd4a-43dc-97e6-4ff4611f1ae8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: 943
 ht-degree: 0%
 
 ---
@@ -36,11 +42,11 @@ Audience Manager相似[!UICONTROL Modeling]的真正功能在於，您針對來�
 
 在下列影片中，我會說明如何建立轉換特徵，在您繼續完成本教學課程並建立相似模型時，您會想要瞭解該特徵。
 
-此外，使用Adobe Analytics事件建立特徵時，您需牢記以下主要事項，以免將超過應有數量的使用者收集進特徵中。 觀看以下影片以瞭解重大展示。 ：)
+此外，使用Adobe Analytics事件建立特徵時，您需牢記以下主要事項，以免將超過應有數量的使用者收集進特徵中。 觀看以下影片以瞭解重大展示。 :)
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**注意：**&#x200B;在上述影片中，我展示的範例假設您有Adobe Analytics。 顯然，情況可能並非如此。 如果您使用Google Analytics (GA)，我們有一個模組可讓您將資料傳送至AAM （請參閱[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html?lang=zh-Hant)），而且如果您網站上的轉換活動由GA傳送至AAM，則您可以從中建立轉換特徵。 如果您有其他分析解決方案（或沒有分析解決方案），您仍可透過我們的DIL程式碼和`submit`函式等，將資料傳送至AAM。 （請參閱[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=zh-Hant)）。 接著，根據網站上執行轉換活動時傳送的資料，建立轉換特徵。
+**注意：**&#x200B;在上述影片中，我展示的範例假設您有Adobe Analytics。 顯然，情況可能並非如此。 如果您使用Google Analytics (GA)，我們有一個模組可讓您將資料傳送至AAM （請參閱[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)），而且如果您網站上的轉換活動由GA傳送至AAM，則您可以從中建立轉換特徵。 如果您有其他分析解決方案（或沒有分析解決方案），您仍可透過我們的DIL程式碼和`submit`函式等，將資料傳送至AAM。（請參閱[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)）。 接著，根據網站上執行轉換活動時傳送的資料，建立轉換特徵。
 
 ## 從第二方或第三方資料建立相似模型 {#create-a-look-alike-model-from-2nd-or-3rd-party-data}
 

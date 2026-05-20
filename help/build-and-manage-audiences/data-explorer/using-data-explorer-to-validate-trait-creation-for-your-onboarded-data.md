@@ -11,9 +11,13 @@ kt: 2141
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: d52786ba-8d3d-4a52-be11-21b78353b28b
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/5-CWgKnfmTxKe2Orp1nRQMNSa-QzXqgoz94-ET0aSkg
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: 234
 ht-degree: 0%
 
 ---
@@ -26,4 +30,4 @@ Audience Manager最強大的功能之一，是載入離線資料，並將其與�
 
 在許多情況下，您會在實際上線資料之前，先為已上線的資料建立特徵。 不過，過程中可能會新增索引鍵和值，而您可能不再擁有利用此絕佳資料所需的所有特徵。 透過[!UICONTROL Data Explorer]，您可以快速搜尋以檢視所有已上線的資料，並依特定[!UICONTROL Data Source]篩選，或甚至篩選至索引鍵和/或值。 此搜尋可讓您有效率地驗證資料。
 
-如需[!DNL Data Explorer]的詳細資訊，請造訪[https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=zh-Hant](https://experiencecloud.adobe.com/resources/help/zh_TW/aam/data-explorer.html)。
+如需[!DNL Data Explorer]的詳細資訊，請造訪[https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)。
