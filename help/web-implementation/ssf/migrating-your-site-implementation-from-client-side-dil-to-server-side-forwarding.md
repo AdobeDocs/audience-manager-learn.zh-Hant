@@ -11,9 +11,27 @@ kt: 1778
 role: Developer
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/Ot1-VgP7kGzBnYguaSGlH0BVwThc1yyA2GH31gnYnFs
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2:
+  - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+subfeature_v2:
+  - id: d7e573ad-4eda-46ec-90c4-239e75362af9
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+  - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '2333'
+source-wordcount: 2419
 ht-degree: 0%
 
 ---
@@ -61,8 +79,8 @@ ht-degree: 0%
 當您從使用者端轉送移至伺服器端轉送時，其中一個工作是將程式碼變更為新的伺服器端轉送程式碼。 使用下列其中一個選項來完成：
 
 * Adobe Experience Platform標籤 — Adobe建議的Web屬性實作選項。 您會發現這是一項輕鬆的工作，因為Platform標籤已為您完成所有艱難的工作。
-* 在頁面上 — 您也可以將新的SSF程式碼直接放入`doPlugins`檔案內的`appMeasurement.js`函式中(如果尚未使用Adobe Launch)
-* 其他標籤管理員 — 這些處理方式與上一個（在頁面上）選項相同，因為無論其他標籤管理員儲存`doPlugins`程式碼，您仍會將SSF程式碼放入[!DNL AppMeasurement]
+* 在頁面上 — 您也可以將新的SSF程式碼直接放入`appMeasurement.js`檔案內的`doPlugins`函式中（如果尚未使用Adobe Launch）
+* 其他標籤管理員 — 這些處理方式與上一個（在頁面上）選項相同，因為無論其他標籤管理員儲存[!DNL AppMeasurement]程式碼，您仍會將SSF程式碼放入`doPlugins`
 
 我們將在&#x200B;_更新程式碼_&#x200B;區段中逐一檢視這些專案。
 
@@ -102,7 +120,7 @@ ht-degree: 0%
 
 #### 「在頁面上」或非Adobe標籤管理員 {#on-the-page-or-non-adobe-tag-manager}
 
-觀看以下影片，瞭解如何以[!DNL AppMeasurement]程式碼將實作選項從使用者端DIL程式碼移至伺服器端轉送(位於檔案或非Adobe標籤管理系統中)。
+觀看以下影片，瞭解如何以[!DNL AppMeasurement]程式碼將實作選項從使用者端DIL程式碼移至伺服器端轉送（位於檔案或非Adobe標籤管理系統中）。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26312/?quality=12)
 

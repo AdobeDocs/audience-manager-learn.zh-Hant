@@ -10,10 +10,25 @@ kt: 1841
 role: Developer
 level: Intermediate
 exl-id: 8c1e6ed5-0f21-427b-a681-0ecb020a0e60
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/uM1GY5cQLRo0qsxnsfrbAuEB-1EJhDyCMyvbmCSbBbQ
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2:
+  - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+subfeature_v2:
+  - id: d7e573ad-4eda-46ec-90c4-239e75362af9
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '1074'
-ht-degree: 0%
+source-wordcount: 1196
+ht-degree: 1%
 
 ---
 
@@ -29,7 +44,7 @@ Audience Manager的[!DNL Data Integration Library] (DIL)程式碼可讓您在網
 
 ## 重複和過時的元素和方法 {#duplicate-and-deprecated-elements-and-methods}
 
-在舊版DIL和ECID中，有重複方法(在DIL和ECID中執行相同功能的方法)，這會造成混淆，不知道該使用哪一種。 通常您需要同時使用兩者並搭配使用，而該訊息未與客戶妥善溝通。 從DIL 8.0開始，DIL已棄用這些重複的方法和元素，建議您使用ECID版本。
+在舊版DIL和ECID中，有重複方法（在DIL和ECID中執行相同功能的方法），這會造成混淆，不知道該使用哪一種。 通常您需要同時使用兩者並搭配使用，而該訊息未與客戶妥善溝通。 從DIL 8.0開始，DIL已棄用這些重複的方法和元素，建議您使用ECID版本。
 
 例如：
 
@@ -41,9 +56,9 @@ Audience Manager的[!DNL Data Integration Library] (DIL)程式碼可讓您在網
 在AAM中，您可以在電腦上將UUID （匿名不重複使用者ID）與客戶ID同步，以便您可以上傳有關該客戶的離線資料，並將其與其線上行為繫結，藉此深入瞭解您的客戶。 在過去，這是以兩種方式之一完成的：
 
 * [!DNL idSync]執行個體層級方法
-* [!DNL declaredId]中的[!DNL DIL.create]專案
+* [!DNL DIL.create]中的[!DNL declaredId]專案
 
-如果您使用其中一個舊方法來與客戶ID同步，強烈建議您使用[!DNL setCustomerIDs]方法來更新為，此方法是ECID服務的一部分。 方法的[!DNL setCustomerIDs]檔案[中有更多有關](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/setcustomerids.html?lang=zh-Hant)的資訊。
+如果您使用其中一個舊方法來與客戶ID同步，強烈建議您使用[!DNL setCustomerIDs]方法來更新為，此方法是ECID服務的一部分。 方法的[檔案](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/setcustomerids.html?lang=zh-Hant)中有更多有關[!DNL setCustomerIDs]的資訊。
 
 **快速提示：**&#x200B;先前使用上述任一方法時，您參考了AAM [!UICONTROL Data Source]的[!UICONTROL Data Source] ID （亦即「DPID」）。 更新至[!DNL setCustomerIDs]時，您需要改用AAM [!UICONTROL Data Source]的&quot;[!UICONTROL Integration Code]&quot;。 它仍指向相同的[!UICONTROL Data Source]，但只是不同的識別碼。 這如下影片所示。
 
@@ -84,7 +99,7 @@ Audience Manager的[!DNL Data Integration Library] (DIL)程式碼可讓您在網
 非Adobe標籤管理員的情況也一樣。 只要您有該標籤管理解決方案中的舊版本，請依照以下步驟所述以新程式碼取代。
 
 1. 將您的DIL程式庫更新至最新版本（8.0或更新版本） — 您需要從Adobe Consulting或Adobe客戶服務取得最新的DIL程式碼，因為目前無法在公共位置使用。 接著，只要以新的DIL程式庫程式碼取代舊的DIL程式庫程式碼，並繼續進行下一個步驟（請勿現在停止，否則您會遇到問題，ha）。
-1. 安裝[!DNL ECID Service]或將現有版本更新至3.3.0或更新版本。 您可以從我們的GitHub頁面[下載最新的Experience Cloud ID服務版本](https://github.com/Adobe-Marketing-Cloud/id-service/releases)。 若您需要相關協助，請參閱[檔案](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=zh-Hant)或諮詢Adobe顧問。
+1. 安裝[!DNL ECID Service]或將現有版本更新至3.3.0或更新版本。 您可以從我們的GitHub頁面[&#128279;](https://github.com/Adobe-Marketing-Cloud/id-service/releases)下載最新的Experience Cloud ID服務版本。 若您需要相關協助，請參閱[檔案](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=zh-Hant)或諮詢Adobe顧問。
 
 1. 確認您的DIL自訂程式碼中的任何已棄用方法或元素已移至ECID方法：
 

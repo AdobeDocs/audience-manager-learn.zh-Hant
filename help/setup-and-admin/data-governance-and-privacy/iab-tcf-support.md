@@ -7,9 +7,21 @@ kt: 5027
 role: Developer
 level: Experienced
 exl-id: 04b4e786-0457-4dcc-bcf9-a79eda67bb2e
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/Nt-232j7k4Gkm-Xu-jHNOpHhl8hFfvXYXLtWSwipQwA
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2:
+  - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '1059'
+source-wordcount: 1148
 ht-degree: 0%
 
 ---
@@ -26,7 +38,7 @@ Adobe可讓您透過選擇加入功能和IAB透明與同意架構2.2 (TCF 2.2)�
 
 現在您已至少基本瞭解選擇加入服務的運作方式，Audience Manager可為其提供[!DNL IAB Transparency and Consent Framework (TCF)]支援，此支援是透過選擇加入物件的外掛程式完成的。
 
-適用於IAB TCF的Audience Manager外掛程式擴充了「選擇加入」功能，可讓AAM客戶根據IAB TCF評估、尊重使用者隱私權選擇，並將其轉呈給下游合作夥伴。 它提供資料控管單位(即您身為Adobe客戶)和廠商（DMP、DSP、SSP、廣告伺服器等）可用來跨同意範圍瞭解同意的標準。
+適用於IAB TCF的Audience Manager外掛程式擴充了「選擇加入」功能，可讓AAM客戶根據IAB TCF評估、尊重使用者隱私權選擇，並將其轉呈給下游合作夥伴。 它提供資料控管單位（即您身為Adobe客戶）和廠商（DMP、DSP、SSP、廣告伺服器等）的標準 可使用來瞭解不同同意情境中的同意情形。
 
 ## 啟用IAB TCF {#enabling-iab-tcf}
 
@@ -67,7 +79,7 @@ IAB TC字串的另一個部分是數百家廠商的長清單，如此一來，�
 
 使用IAB TCF的優點之一，是上述標準用途可能讓一般使用者比Adobe解決方案清單更能瞭解他們要核准的內容。 一般使用者可能不知道「核准」Audience Manager或[!DNL Target]的意義，但「在裝置上儲存和/或存取資訊」或「開發和改善產品」可能更容易讓使用者理解和同意。
 
-為了核准Audience Manager (即為了針對選擇加入以獲得「是」投票的AAM而翻譯IAB，目的1和10 （如前所列）必須獲得一般使用者的同意。 如果任一專案未核准，或交易者未核准，AAM將不會執行畫素觸發或設定Cookie。 同樣很高興知道的是，許多客戶只要選擇為一般使用者提供「完整或無」的UI，這當然會允許或禁止使用Audience Manager (及其他Experience Cloud解決方案)。
+為了核准Audience Manager (即為了針對選擇加入以獲得「是」投票的AAM而翻譯IAB，目的1和10 （如前所列）必須獲得一般使用者的同意。 如果任一專案未核准，或交易者未核准，AAM將不會執行畫素觸發或設定Cookie。 同樣很高興知道的是，許多客戶只要選擇為一般使用者提供「完整或無」的UI，這當然會允許或禁止使用Audience Manager （及其他Experience Cloud解決方案）。
 
 [檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=zh-Hant)中有一些關於IAB TCF流程的Audience Manager外掛程式如何套用至發佈者和廣告商使用案例的實用資訊。
 
