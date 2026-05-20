@@ -40,4 +40,4 @@ Varun Kalra是多解決方案顧問，在雪梨的Adobe解決方案合作夥伴 
 * 更深入地研究目標定位使用案例
 * 各種PMR設定的使用案例
 
-[閱讀Experience League社群中的Varun秘訣。](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248)
+[閱讀Experience League社群中的Varun秘訣。](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248?profile.language=zh-Hant)

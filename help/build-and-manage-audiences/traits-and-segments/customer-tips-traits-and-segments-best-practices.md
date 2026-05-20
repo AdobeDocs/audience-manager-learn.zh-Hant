@@ -35,4 +35,4 @@ Matt Vittorioso是Ally Financial數位行銷團隊的資深行銷專家。 他�
 * 利用現成可用的功能
 * 定期檢閱特徵和區段
 
-[閱讀Experience League社群中的Matt秘訣。](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729)
+[閱讀Experience League社群中的Matt秘訣。](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729?profile.language=zh-Hant)

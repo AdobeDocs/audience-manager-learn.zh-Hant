@@ -37,4 +37,4 @@ Audience Manager在UI中提供自助式功能，讓客戶可以在全球或依�
 
 >[!VIDEO](https://video.tv.adobe.com/v/27218/?quality=9)
 
-如需有關此功能的詳細資訊，請瀏覽[檔案](https://experiencecloud.adobe.com/resources/help/en_US/aam/ip-obfuscation.html)。
+如需有關此功能的詳細資訊，請瀏覽[檔案](https://experiencecloud.adobe.com/resources/help/zh_TW/aam/ip-obfuscation.html)。
