@@ -7,32 +7,45 @@ kt: 5027
 role: Developer
 level: Experienced
 exl-id: 04b4e786-0457-4dcc-bcf9-a79eda67bb2e
-TQID: https://experienceleague.adobe.com/Nt-232j7k4Gkm-Xu-jHNOpHhl8hFfvXYXLtWSwipQwA
+TQID: 'https://experienceleague.adobe.com/Nt-232j7k4Gkm-Xu-jHNOpHhl8hFfvXYXLtWSwipQwA'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
 feature_v2:
   - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+    internal-label: Implementation
+  - id: b89b323a-1e91-40b1-8d20-96b5b726d55a
+    internal-label: Audience management
+subfeature_v2:
+  - id: a1d8adf7-4300-4ca2-870f-1612c6774544
+    internal-label: Data governance and privacy
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
+    internal-label: Privacy
+source-git-commit: 7bd4c343895d4f0718fc9e02cb0d6dd86bbb1883
 workflow-type: tm+mt
-source-wordcount: 1148
+source-wordcount: '1148'
 ht-degree: 0%
-
 ---
-
 # Audience Manager中的IAB TCF 2.2支援 {#iab-tcf-support-in-audience-manager}
 
 Adobe可讓您透過選擇加入功能和IAB透明與同意架構2.2 (TCF 2.2)支援的Audience Manager外掛程式，管理使用者的隱私權選擇，並與使用者針對該選擇溝通。 本文會與檔案搭配使用，協助您瞭解IAB TCF的Audience Manager外掛程式，以及它如何與Adobe的選擇加入物件和您的同意管理提供者(CMP)搭配運作。 若要深入瞭解IAB，請參閱其網站： [https://www.iabeurope.eu/](https://www.iabeurope.eu/)。
 
 ## 第一步：瞭解Experience Cloud ID選擇加入 {#first-step-understand-ecid-s-opt-in}
 
-若要瞭解如何使用IAB TCF，您必須先瞭解[!DNL Opt-in]功能，此功能屬於Experience Cloud ID服務(ECID)程式庫的一部分。 如果您不熟悉選擇加入的運作方式，請先參閱[這篇實用文章](https://experienceleague.adobe.com/docs/core-services-learn/tutorials/id-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html?lang=zh-Hant)。 您也應該檢閱選擇加入[檔案](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/optin-overview.html?lang=zh-Hant)。 瀏覽完這些資源後，請返回此頁面並繼續。
+若要瞭解如何使用IAB TCF，您必須先瞭解[!DNL Opt-in]功能，此功能隸屬於Experience Cloud ID服務(ECID)資料庫。 如果您不熟悉選擇加入的運作方式，請先參閱[這篇實用文章](https://experienceleague.adobe.com/docs/core-services-learn/tutorials/id-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html)。 您也應該檢閱選擇加入[檔案](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/optin-overview.html)。 瀏覽完這些資源後，請返回此頁面並繼續。
 
 ## 適用於IAB TCF的Audience Manager外掛程式 {#the-audience-manager-plug-in-for-iab-tcf}
 
@@ -46,7 +59,7 @@ Adobe可讓您透過選擇加入功能和IAB透明與同意架構2.2 (TCF 2.2)�
 
 >[!VIDEO](https://video.tv.adobe.com/v/26433/?quality=12)
 
-或者，如果您沒有使用Launch，可以在例項化Experience Cloud訪客時使用`isIabContext=true`啟用它。 這會起始IAB TCF流程，亦即新增另一個同意收集步驟，使用IAB TCF來查詢IAB TC字串，並將其提供回選擇加入，接著選擇加入再與Experience Cloud解決方案通訊。
+或者，如果您沒有使用Launch，可以在例項化Experience Cloud訪客時使用`isIabContext=true`啟用它。 這會起始IAB TCF流程，亦即新增另一個同意收集步驟，使用IAB TCF來查詢IAB TC字串，並將其提供回選擇加入，然後與Experience Cloud解決方案通訊。
 
 ## IAB TC字串 {#iab-tcf-consent-string}
 
@@ -79,9 +92,9 @@ IAB TC字串的另一個部分是數百家廠商的長清單，如此一來，�
 
 使用IAB TCF的優點之一，是上述標準用途可能讓一般使用者比Adobe解決方案清單更能瞭解他們要核准的內容。 一般使用者可能不知道「核准」Audience Manager或[!DNL Target]的意義，但「在裝置上儲存和/或存取資訊」或「開發和改善產品」可能更容易讓使用者理解和同意。
 
-為了核准Audience Manager (即為了針對選擇加入以獲得「是」投票的AAM而翻譯IAB，目的1和10 （如前所列）必須獲得一般使用者的同意。 如果任一專案未核准，或交易者未核准，AAM將不會執行畫素觸發或設定Cookie。 同樣很高興知道的是，許多客戶只要選擇為一般使用者提供「完整或無」的UI，這當然會允許或禁止使用Audience Manager （及其他Experience Cloud解決方案）。
+為了核准Audience Manager (即為了針對選擇加入以獲得「是」投票的AAM而翻譯IAB，目的1和10 （如前所列）必須獲得一般使用者的同意。 如果任一專案未核准，或交易者未核准，AAM將不會執行畫素觸發或設定Cookie。 同樣很高興知道的是，許多客戶只要選擇為一般使用者提供「完整或無」的UI，這當然會允許或禁止使用Audience Manager （和其他Experience Cloud解決方案）。
 
-[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=zh-Hant)中有一些關於IAB TCF流程的Audience Manager外掛程式如何套用至發佈者和廣告商使用案例的實用資訊。
+[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=en)中有一些關於IAB TCF流程的Audience Manager外掛程式如何套用至發佈者和廣告商使用案例的實用資訊。
 
 ## IAB：傳送下游同意 {#iab-sending-consent-downstream}
 
@@ -98,4 +111,4 @@ IAB TC字串的另一個部分是數百家廠商的長清單，如此一來，�
 
 >[!VIDEO](https://video.tv.adobe.com/v/26434/?quality=12)
 
-如需有關適用於IAB TCF 2.2的Audience Manager外掛程式的詳細資訊，包括如何實作和測試、使用案例和工作流程，請參閱[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=zh-Hant)。
+如需有關適用於IAB TCF 2.2的Audience Manager外掛程式的詳細資訊，包括如何實作和測試、使用案例和工作流程，請參閱[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html)。

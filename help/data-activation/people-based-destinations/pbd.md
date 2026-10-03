@@ -2,7 +2,7 @@
 title: 以人物為基礎的目的地影片和教學課程
 description: 瞭解Audience Manager中以人物為基礎的目的地。 探索如何對線上和離線資料套用細分，以根據雜湊識別碼（例如電子郵件地址等）建立對象區段！
 feature: People-based Destinations
-topics: null
+topics:
 activity: setup
 doc-type: feature video
 team: Technical Marketing
@@ -10,22 +10,27 @@ kt: 5207
 role: Admin
 level: Beginner
 exl-id: 80c37014-896f-4ed1-8673-a135ef3063d5
-TQID: https://experienceleague.adobe.com/EyqsE9RBoHVvG5bqNsAG9-3O7X148VWUx7OwTx8h3hA
+TQID: 'https://experienceleague.adobe.com/EyqsE9RBoHVvG5bqNsAG9-3O7X148VWUx7OwTx8h3hA'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
 feature_v2:
   - id: c814092e-2730-45e8-a12d-e084529f52cb
+    internal-label: Destinations
+subfeature_v2:
+  - id: d7221605-094b-45a5-891f-f37bd58c0055
+    internal-label: People based Destinations
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
+    internal-label: Beginner
+source-git-commit: 7bd4c343895d4f0718fc9e02cb0d6dd86bbb1883
 workflow-type: tm+mt
-source-wordcount: 216
+source-wordcount: '216'
 ht-degree: 0%
-
 ---
-
 # 以人物為基礎的目的地影片和教學課程
 
 以人物為基礎的目的地可讓您對線上和離線資料套用分段，以根據雜湊識別碼（例如電子郵件地址）建立對象區段。 然後，您可以將這些區段傳送至社交平台，例如[!DNL Facebook]或[!DNL LinkedIn]，在那裡您可以鎖定您的對象。
@@ -42,4 +47,4 @@ ht-degree: 0%
 * [建立及設定以人物為基礎的目的地](create-and-configure-people-based-destinations.md)
 * [瞭解並設定LinkedIn以人物為基礎的目的地](understanding-and-configuring-the-linkedin-pbd.md)
 
-這些視訊可與[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=zh-Hant)搭配使用。
+這些視訊可與[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)搭配使用。

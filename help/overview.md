@@ -2,35 +2,46 @@
 title: Audience Manager影片和教學課程
 description: Adobe Audience Manager的影片和教學課程系列。
 feature: Overview
-topics: null
+topics:
 activity: use
 doc-type: overview
 team: Technical Marketing
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-TQID: https://experienceleague.adobe.com/QnyRf-CdEBxQiyKUGCNuz7pR93TdrANPEssSfvyqTag
+TQID: 'https://experienceleague.adobe.com/QnyRf-CdEBxQiyKUGCNuz7pR93TdrANPEssSfvyqTag'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
+feature_v2:
+  - id: ce14ba14-a06d-4b2b-b7dd-04cb862494ec
+    internal-label: Administration
+subfeature_v2:
+  - id: fa77d762-7e75-47b2-9bb4-e3fcf50d251d
+    internal-label: Overview
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
-source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
+    internal-label: Data management
+source-git-commit: 7bd4c343895d4f0718fc9e02cb0d6dd86bbb1883
 workflow-type: tm+mt
-source-wordcount: 308
+source-wordcount: '320'
 ht-degree: 5%
-
 ---
-
 # Audience Manager教學課程
 
-歡迎使用Audience Manager教學課程網站。 使用這些教學課程以及[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=zh-Hant)，可讓您更進一步瞭解如何使用Adobe Audience Manager，透過Adobe同級最佳的[!DNL data management platform]在任何管道或裝置上建立及啟用對象。
+歡迎使用Audience Manager教學課程網站。 使用這些教學課程以及[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html)，可讓您更進一步瞭解如何使用Adobe Audience Manager，透過Adobe同級最佳的[!DNL data management platform]在任何管道或裝置上建立及啟用對象。
 
 * **員工精選**&#x200B;特別顯示我們最喜歡的一些內容
 * 在&#x200B;**左側導覽**&#x200B;中依主題和副主題探索內容
@@ -50,11 +61,11 @@ ht-degree: 5%
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=zh-Hant">
-      <img alt="「使用Web SDK實作Adobe Experience Cloud」教學課程的縮圖影像" src="assets/implement-web-sdk.jpg" />
+    <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
+      <img alt="「使用網頁SDK實作Adobe Experience Cloud」教學課程的縮圖影像" src="assets/implement-web-sdk.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=zh-Hant">
+      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
     <strong>使用Web SDK教學課程實作Adobe Experience Cloud</strong>
     </a>
     </div>
@@ -63,11 +74,11 @@ ht-degree: 5%
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=zh-Hant">
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
       <img alt="「瞭解Real-time CDP中的區段」教學課程的縮圖影像" src="assets/331901.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=zh-Hant">
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
     <strong>瞭解適用於Audience Manager使用者的Real-time CDP中的區段</strong>
     </a>
     </div>
@@ -76,11 +87,11 @@ ht-degree: 5%
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=zh-Hant">
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
       <img alt="「在Audience Manager中設定預測對象及製作報表」教學課程的縮圖影像" src="assets/33630.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=zh-Hant">
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
     <strong>在Audience Manager中設定預測對象並製作報表</strong>
     </a>
     </div>
