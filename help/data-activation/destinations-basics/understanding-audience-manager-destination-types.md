@@ -41,7 +41,7 @@ ht-degree: 0%
 
 此影片將逐步說明Adobe Audience Manager中的各種目的地型別，並提供您何時會使用每種目的地的範例。
 
->[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507797/?captions=chi_hant&quality=12)
 
 您可以在[Audience Manager Device-based Destinations檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html?lang=zh-Hant)中檢視可用的伺服器對伺服器目的地合作夥伴清單。
 

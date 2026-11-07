@@ -21,7 +21,7 @@ ht-degree: 0%
 
 使用Audience Manager中的BAAAM工具大量建立和管理您的區段，將其放入資料夾、新增特徵至區段規則、對應至目的地等。
 
->[!VIDEO](https://video.tv.adobe.com/v/39148/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507505/?captions=chi_hant&quality=12&learn=on)
 
 >[!IMPORTANT]
 >

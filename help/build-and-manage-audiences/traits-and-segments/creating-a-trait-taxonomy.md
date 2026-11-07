@@ -35,4 +35,4 @@ ht-degree: 0%
 
 瞭解在Audience Manager中建立資料夾結構用以存放特性的秘訣。
 
->[!VIDEO](https://video.tv.adobe.com/v/40266/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507679/?captions=chi_hant&quality=12&learn=on)

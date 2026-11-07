@@ -19,4 +19,4 @@ ht-degree: 0%
 
 瞭解BAAAM，Audience Manager中用於特徵和區段的大量管理工具，包括如何設定該工具，以便隨時使用。
 
->[!VIDEO](https://video.tv.adobe.com/v/39141/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507381/?captions=chi_hant&quality=12&learn=on)
