@@ -141,7 +141,7 @@ ht-degree: 0%
 
 在本教學課程中，我們目前花所有時間將程式碼從使用者端DIL程式碼切換至伺服器端轉送。 沒關係，因為這是比較困難的部分。 雖然您會看到本節非常簡單，但與更新程式碼一樣重要。 在本影片中，您將會瞭解如何切換開關，以實際將資料從Analytics轉送至Audience Manager。
 
->[!VIDEO](https://video.tv.adobe.com/v/26355/?quality-12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507526/?captions=chi_hant&quality-12)
 
 **注意：**&#x200B;如影片中所述，最多需要4小時才能在Experience Cloud後端完全實作轉送。
 
@@ -222,7 +222,7 @@ ht-degree: 0%
 
 如果您沒有執行從[!DNL Analytics]到Audience Manager的資料伺服器端轉送，則不會有任何對[!DNL Analytics]信標的回應（除2x2畫素以外）。 不過，如果您執行伺服器端轉送，[!DNL Analytics]要求與回應中就會有可驗證的專案，讓您知道[!DNL Analytics]正在與Audience Manager正確通訊、轉送點選及取得回應。
 
->[!VIDEO](https://video.tv.adobe.com/v/26359/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507426/?captions=chi_hant&quality=12)
 
 >[!WARNING]
 >

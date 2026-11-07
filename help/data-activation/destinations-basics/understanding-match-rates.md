@@ -41,6 +41,6 @@ ht-degree: 0%
 
 本影片有助於您瞭解Adobe Audience Manager中的符合率、符合率是什麼及其計算方式。 您也會瞭解一些最佳實務，以及可能導致低匹配率的因素。
 
->[!VIDEO](https://video.tv.adobe.com/v/29830/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507461/?captions=chi_hant&quality=12)
 
 如需詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=zh-Hant)。

@@ -46,4 +46,4 @@ ht-degree: 0%
 
 在這場會議中，我們將說明DMP是什麼，並展示一些真實世界的個案研究，客戶從中看到了令人驚歎的投資回報，從更有效率的媒體採購到大幅提升的轉換率。
 
->[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507562/?captions=chi_hant&quality=12)
